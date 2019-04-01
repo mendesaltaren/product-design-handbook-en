@@ -22,9 +22,9 @@ Este escenario es el más completo, por lo que es el que vamos a desarrollar. Re
 
 ### 1. Toma de contacto
 
-Investigar al cliente, su producto, sus principios y sus valores para entender su marca. Detectar qué puede necesitar y fijar una estrategia. 
+Investigar al cliente, su producto, sus principios y sus valores para entender su marca. Detectar qué puede necesitar y fijar una estrategia.
 
-Este punto es especialmente importante. **Sentar unas buenas bases** establece una relación sana con el cliente y ayuda a tomar decisiones con fundamento y de forma ágil. 
+Este punto es especialmente importante. **Sentar unas buenas bases** establece una relación sana con el cliente y ayuda a tomar decisiones con fundamento y de forma ágil.
 
 **1.1. Antes de la primera reunión:**
 
@@ -42,9 +42,9 @@ Investiga al cliente y sus perfiles internos. Genera una idea previa de lo que v
 * Gestiona las expectativas del cliente.
 * Checklist de necesidades. Debes mandar un mail al cliente para que valide las necesidades establecidas.
 
-### 2. Investigación __y plataforma de marca
+### 2. Investigación \_\_y plataforma de marca
 
-Tras la toma de contacto, es momento de **investigar sobre el mercado** de nuestro cliente con la intención de identificar competidores y referentes. Por otra parte, es importante que en este punto hagamos con él  una **reflexión sobre su marca**, su propuesta de valor, y qué mensaje quiere transmitir. Para esto último, le facilitamos un documento que le guíe en ese proceso de reflexión: el [_Brand Strategy Brief_](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-V2-58f760341b144236baa58303c11e2e83).
+Tras la toma de contacto, es momento de **investigar sobre el mercado** de nuestro cliente con la intención de identificar competidores y referentes. Por otra parte, es importante que en este punto hagamos con él una **reflexión sobre su marca**, su propuesta de valor, y qué mensaje quiere transmitir. Para esto último, le facilitamos un documento que le guíe en ese proceso de reflexión: el [_Brand Strategy Brief_](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-V2-58f760341b144236baa58303c11e2e83).
 
 Con todo lo recogido en esta etapa se debe realizar una propuesta al cliente. Estos son los pasos a seguir:
 

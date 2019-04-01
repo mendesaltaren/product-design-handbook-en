@@ -58,7 +58,7 @@ La _daily_ se completa todos los días por todos los miembros del equipo. La _da
 
 Para realizarla, utilizamos el bot de Geekbot para Slack:
 
-{% embed url="https://geekbot.io/" %}
+{% embed url="https://geekbot.io/" caption="" %}
 
 Geekbot nos permite realizar la daily de forma sencilla y asíncrona, mediante 4 preguntas que se envían directamente al canal \#daily del [Slack](https://slack.com) que usamos en el equipo. Te pregunta cómo estás, qué se hizo el día anterior, cuáles son las tareas planteadas a completar en el día y si has encontrado algún bloqueo. Esta forma de hacer la _daily_ nos aporta flexibilidad, ya que:
 

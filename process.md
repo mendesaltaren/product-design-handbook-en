@@ -18,7 +18,7 @@ No vamos a hablar de un proceso único. En absoluto se tratará de un discurso m
 * **Procesos de producto,** relacionados con la solución de problemas complejos para los usuarios en base a una serie de objetivos en un contexto concreto.
 * **Procesos de definición gráfica**, ya que es la comunicación visual nuestra principal herramienta \(que no la única\) a la hora de hacer que un producto digital sea un éxito.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
+![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow%20%281%29.jpg)
 
 ## 1. Preparación
 

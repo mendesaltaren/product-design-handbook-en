@@ -6,7 +6,7 @@ Product Design Handbook es una guía práctica donde se refleja cómo trabajamos
 
 El contenido está estructurado de tal forma que abarca primero lo más general y, de ahí, se parte hacia lo más específico. La idea de esto es que el aterrizaje sea sencillo y se tenga, la mayor parte del tiempo, una visión general del proceso y de nuestra organización.
 
-Por otro lado, hemos separado el proceso general de las herramientas que empleamos en nuestro día a día. Esto se debe a la naturaleza cambiante de las mismas. Y es que, además de creer que en esta profesión lo más importante es la metodología, una base cultural rica en referencias técnicas y estéticas así como una sólida formación en diseño, también pensamos que las herramientas pueden cambiar, olvidarse y aprenderse.
+Por otro lado, hemos separado el proceso general de las herramientas que empleamos en nuestro día a día. Esto se debe a la naturaleza cambiante de las mismas. Y es que, además de creer que en esta profesión lo más importante es la metodología, una base cultural rica en referencias técnicas y estéticas así como una sólida formación en diseño, también pensamos que las herramientas pueden cambiar, olvidarse y aprenderse..
 
 ## Instrucciones
 
@@ -32,10 +32,10 @@ Si este proceso te parece muy tedioso siempre puedes escribirnos un mail a [hell
 
 Cualquier tipo de ayuda siempre será bienvenida.
 
-Empresas y centros académicos que utilizan nuestro Product Design Handbook como referencia:   
+Empresas y centros académicos que utilizan nuestro Product Design Handbook como referencia:  
 ZARA, GOI, Chicfy, C14/SEAT, Packlink, Universidad Europea, Playtomic entre otros…
 
-{% embed url="https://www.youtube.com/watch?v=kzLJ7Vy6orw" %}
+{% embed url="https://www.youtube.com/watch?v=kzLJ7Vy6orw" caption="" %}
 
 > 100k pasos, más de 100k pasos en mis pies  
 > But the sun’s gonna rise, the sun’s gonna rise like everyday
