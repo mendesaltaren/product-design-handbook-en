@@ -1,352 +1,324 @@
-# 2. Proceso
+# 2. Process
 
-## Introducción
+## Introduction
 
-**La importancia del proceso**
+**The importance of having a process**
 
-> Sobrestimamos el evento y subestimamos el proceso; cada sueño realizado ocurrió gracias a la dedicación de un proceso
+> We overestimate the event and underestimate the process. Every fulfilled dream occurred because of dedication to the process.
 >
 > – John C. Maxwell
 
-Un proceso bien estructurado y madurado es una de las claves del éxito de cualquier proyecto. Y aunque cada proyecto es un mundo, existen numerosos patrones que a lo largo del tiempo hemos ido madurando y asumiendo, encontrando caminos recurrentes para llegar a resultados muy distintos.
+A well-structured and mature process is one of the keys to the success of any project. And although each project is a World in itself, there are numerous patterns that over time we have been developing and assimilating into our workflow, finding these recurring paths to help us achieve uniquely different results for each project we embark on.
 
-Desde el primer email de contacto, o la primera conversación informal en un evento, hasta la entrega final pueden llegar a pasar meses, pero independientemente de lo que se dilate un proyecto en el tiempo, el proceso siempre está presente. La previsibilidad es la clave. Seguir un roadmap definido y tenerlo actualizado nos ayudará a reducir la incertidumbre y a hacer partícipe a nuestro cliente de todos los eventos que ocurrirán durante su proyecto.
+From the first contact email or informal conversation to the final delivery, no matter how long a project takes, the process is always present. Predictability is the key. Following a defined roadmap and having it updated will help us reduce uncertainty and help our client awareness in all the events that will occur during their project.
 
-No vamos a hablar de un proceso único. En absoluto se tratará de un discurso monolítico. En realidad nuestro proceso se compone de muchos procesos: hemos decidido distinguir tres tipos de ellos, que de forma alterna se irán sucediendo en la cronología de nuestro trabajo.
+We are not going to talk about a single process. It will not be a one-off discourse either. In reality, our process is composed of many processes: we have decided to distinguish three of them, which will alternately succeed each other in the order of our work.
 
-* **Procesos de definición estratégica**, que nos permiten vislumbrar el camino a seguir para ayudar a nuestros clientes. La estrategia parte de un mercado, contexto, objetivos, necesidades y públicos concretos, sentando las bases de todo nuestro trabajo.
-* **Procesos de producto,** relacionados con la solución de problemas complejos para los usuarios en base a una serie de objetivos en un contexto concreto.
-* **Procesos de definición gráfica**, ya que es la comunicación visual nuestra principal herramienta \(que no la única\) a la hora de hacer que un producto digital sea un éxito.
+* **Strategic definition processes**, which allow us to carve a path to follow to help our customers. The strategy starts with a market, context, objectives, needs and specific audiences, laying the foundations for all our work.
+* **Product processes**, related to the solution of complex problems for users based on a series of objectives in a specific context.
+* **Graphical definition processes**, since visual communication is our main tool \(and not the only one\) when it comes to making a digital product a success.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow%20%281%29.jpg)
+![Diagram of the general workflow we used in the studio](.gitbook/assets/global-workflow%20%281%29.jpg)
 
-## 1. Preparación
+## 1. Preparation
 
-Todo proyecto nace de una necesidad de un cliente. Pero es muy común que el propio cliente no sepa bien qué quiere o por qué cuenta con nosotros. Es muy importante realizar una labor formativa antes de arrancar transmitiéndole con claridad cual es la cultura y el enfoque de nuestro trabajo de manera que el cliente entienda el valor diferencial que aportamos.
+Every project is born from a specific need from a client. But it is very common that the client themselves do not know exactly what they want or why they should trust us. It is very important to make sure our clients get to know us before starting a project, so that we transmit with clarity our culture and our approach to the work that we do, thus the client understands the differential value that we bring.
 
-**Esta formación se puede dar de varias formas:**
+**This preparation can be given in several ways:**
 
-* **Formamos al cliente.** Los clientes suelen identificarnos con su idea preconcebida sobre el diseño gráfico, centrándose solo en la parte estética. **Cuando empiezan a trabajar con nosotros les enseñamos la dimensión que tiene el diseño de producto**, aprendiendo de nuestra metodología.
-* Formamos diseñadores para el cliente. **Un valor muy importante, que nos diferencia**, es el servicio de encontrar talento y formarlo durante un proyecto para después incorporarlo al cliente.
+* **We train the client.** Clients usually identify us with their preconceived idea about graphic design, focusing only on the aesthetic part. **When they start working with us, we teach them a holistic view of product design,** learning from our methodology.
+* We train designers for the client. **A very important value that sets us apart** is the service of finding talent and training them during a project to then have seamless incorporation with the client.
 
-**¿Por qué es tan importante?**
+**Why is it so important?**
 
-* **Compartir visión y cultura.** Es muy importante que tu cliente sepa qué va a obtener de ti y qué no.
-* **Evitar clientes que no encajan.** Es mejor no realizar un trabajo que no forma parte de tu foco profesional y derivarlo a otros compañeros. Mejora el sector, es honesto con el cliente y nos permite centrarnos donde realmente aportamos.
-* **Mejorar la valoración de nuestro trabajo.** Transmitiendo el proceso y los pormenores de otros proyectos logramos que el cliente entienda la complejidad del día a día, lo que mejora su capacidad de criticar y entender lo que hacemos.
+* **Sharing vision and culture.** It is very important for your client to know what they are going to get from you and what they are not.
+* **Avoid clients who do not fit in.** It is better not to do a job that is not part of your professional focus and refer it to other colleagues. It improves the sector, it is being honest with the client and it allows us to focus where we really can contribute.
+* **Improve the value of our work.** By conveying the process and details of other projects, we enable the client to understand the day to day work complexity, which improves their ability to criticize and understand what we do.
 
-### **1.1 Propuesta**
+### **1.1 Proposal**
 
-Los proyectos nacen de las necesidades del cliente. Éste nos contacta y nos traslada sus necesidades a través de un _**Briefing**_. En base a éste, se debe formalizar una **propuesta**, materializando la idea y objetivos que tiene el cliente en los servicios que podemos ofrecerle para aportar valor en su producto.
+The projects are born from the client's needs. He contacts us and tells us his needs and requirements through a **Briefing**. Based on this, a **proposal** is formalized, materializing the ideas and objectives that the client has in the services that we can offer to provide value in their product.
 
-**Nuestras propuestas contienen:**
+**Our proposals contain:**
 
-* Una descripción detallada de las fases que compondrán el proyecto.
-* Una estimación de las fechas.
-* Presupuesto detallado.
-* Condiciones del servicio.
-* Materiales y entregables que recibirá el cliente.
-* En ciertas ocasiones, ejemplos de otros proyectos.
+* A detailed description of the phases that will make up the project.
+* An estimate of the phases deadline.
+* A detailed quote.
+* Conditions of service.
+* Materials and deliverables to be received by the client.
+* On certain occasions, examples of other projects.
 
-Aunque aceptar o rechazar una propuesta pueda a priori parecer una decisión racional, gran parte de la misma se basa en lo emocional. Por ello no debemos nunca descuidar el detalle, narrativa, y la calidad gráfica de nuestra propuesta: debe ser un reflejo de lo que estamos ofreciendo en ella e ir claramente alineada con la identidad y cultura de nuestro estudio.
+Although accepting or rejecting a proposal may make a priori seem like a rational decision, much of it is based on the emotional. For this reason, we must never neglect the detail, narrative, and graphics quality of our proposal: it must be a reflection of what we are offering and be clearly aligned with the identity and culture of our study.
 
-Una vez aprobada la propuesta donde se han definido los servicios que se van a llevar a cabo y los objetivos a alcanzar, se documentan en [Notion](tools/notion.md) y se trasladan las tareas a [Asana](tools/asana.md).
+Once the proposal has been approved, where the services are to be carried out and the objectives to be achieved have been defined, they are documented in Notion and the tasks are transferred to Asana. 
 
-## 2. Entendimiento
+## 2. Understanding
 
-La fase de entendimiento es el proceso que nos permite establecer el marco de actuación de nuestro trabajo. Se trata de una serie de dinámicas y procesos que deben ser aplicados según nuestro criterio para extraer toda la información necesaria para la construcción del proyecto en fases posteriores. Las conclusiones en esta fase deben ser compartidas con el cliente como un producto más y validadas por él. Solo de esta manera conseguiremos un cimiento estable que elimine expresiones como "me gusta" del vocabulario de nuestros clientes.
+The understanding phase allows us to establish a framework for our work. It is a series of exercises and processes that must follow a defined criteria. This way we can extract all the necessary information to help build the project in later phases. The conclusions in this phase will then be shared with the client as one more product and validated by him. Only in this way can we eliminate such expressions as "I like" from the vocabulary of our clients.
 
-**Conocer el problema**
+**Knowing the problem**
 
-Cualquier proyecto de calidad, ya engloble producto, branding, u otros servicios, se comienza a gestar durante la fase de entendimiento. Es probablemente, la parte más importante de todo el proceso. La clave es delimitar claramente el problema al que nos enfrentamos. Si dicho problema no ha sido correctamente descrito, podríamos no dar nunca con una solución adecuada. Existen numerosas vías para llegar a conocer bien el problema. No existe una receta única. Normalmente, la fase de entendimiento comienza desde la primera toma de contacto.
+With any quality project, whether it is product, branding, or some other type of service, it begins with the understanding phase. It is the most important part of the whole process. The key is to define the problem we are facing. Because if we fail to define the problem, we may never find an adequate solution. There are many ways to discover the problem at hand. There is no single way to do this. The understanding phase starts from day one.
 
-Este es el momento de preparar el proyecto a nivel técnico. Debemos crear el proyecto en Abstract y dar acceso a todas las personas involucradas en el proyecto, para que puedan ver los avances y aportar feedback a lo largo de este. Es también el momento de preparar la estructura de carpetas así como crear y organizar la documentación en Notion y empezar a crear tareas en Asana.
+This is also the time to prepare the project at the technical level. We create our projects in Abstract and then give access to all the people involved in the project. This way they can see the progress and provide feedback throughout the project. It is also the time to prepare the folder structure, organize the documentation in Notion and to begin creating tasks in Asana.
 
 {% hint style="info" %}
-👉 En [**Cómo nos organizamos**](organization.md) aprenderás más sobre cómo crear esta estructura.  
-👉 En [**Notion**](tools/notion.md) puedes conocer más sobre cómo creamos y documentamos un proyecto.  
-👉 En [**Asana**](tools/asana.md) puedes ver cómo organizamos las tareas a completar del proceso.  
-👉 En [**Abstract**](tools/abstract.md) leerás acerca de esta herramienta y como preparar un proyecto.
+👉 In How We Organize you will learn more about how to create this structure.  
+👉 In Notion you can learn more about how we create and document a project.  
+👉 In Asana you can see how we organize the tasks needed to complete each phase.  
+👉 In Abstract you will read about this tool and how to set up a project.
 {% endhint %}
 
 ### 2.1 Brief
 
-Una de las vías más comunes de comenzar a _entender_ es a través de un brief, si no lo hubiera habido ya antes de la propuesta. Existen multitud de formatos. En su versión más extendida, no es más que un documento donde se detalla la solicitud de servicios por parte del cliente, pero puede ser mucho más que eso. En nuestro caso, el brief es una disposición mental que hacemos en la reunión de toma de contacto que nos permite testear qué quiere el cliente, adelantar posibles problemas o beneficios del proyecto y, en definitiva, extraer en frío toda la información posible. Se trata de realizar las preguntas y propuestas correctas durante esa primera reunión.
+One of the most common ways to begin to understand a project is through a brief. That is if there had not already been one before the proposal. There are a variety of formats. In its most common form, it is nothing more than a document detailing the client's request for services. But it can be much more than that. In our case, the brief allows us to test what the client wants, anticipate potential problems or benefits the project can bring. Basically, we want to extract as much information as possible. It is about asking the right questions and making the right proposals during the first meeting.
 
 ### 2.2 **Brand Strategy Brief**
 
-Para entender el producto y la marca y adquirir un conocimiento inicial de los mismos, solemos enviar a nuestros clientes un documento de nuestra factura al que llamamos **Brand Strategy Brief**. Es un pequeño cuestionario que invita al cliente a hacer una reflexión estratégica y conceptual sobre su organización, pasando por la visión, misión y valores, así como su público objetivo y competencia. De esta manera, el equipo mendesaltaren se alinea con el cliente, adoptando sus principios y valores a lo largo del proyecto. Este brief no es siempre necesario, pero es imprescindible si el proyecto incluye branding o si no tienen una estrategia bien definida.
+To get to know our clients better, we usually send them a **Brand Strategy Brief.** This brief is a small questionnaire that invites the client to reflect strategically on its company's vision, mission, and values, as well as its target audience and competition. In this way, the mendesaltaren team can align itself with the client's vision and values, as well as its target audience and competitors. This brief is not always necessary, but it is essential if the project includes branding or if they do not have a well-defined strategy.
 
 [Brand Strategy Brief](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-a3a812793b7843ffbe2fbb593c5a43e7)
 
 ### 2.3 Kick-Off
 
-Una vez el Brand Strategy Brief se haya completado, se realiza un **Kick-off meeting** donde se ahonda en los objetivos de negocio que se quieren alcanzar y en qué es lo que se espera de mendesaltaren. El Kick-off meeting ayuda a establecer objetivos medibles y alcanzables, así como fijar un roadmap realista. En esta sesión debemos empezar a detectar el problema, así como lanzar hipótesis de por qué ha surgido el mismo. Es interesante que surjan ideas rápidas sobre las posibles soluciones, tanto por parte de nuestros stakeholders, el equipo del cliente como de nuestro propio equipo. De esta manera, podemos testear la receptividad de los stakeholders, cómo de flexibles son, y cuan fácil podrá ser convencerles de nuestras decisiones. Un buen ejercicio a utilizar en esta fase es el **Product Canvas**, que se explica a continuación**.**
+Once the Brand Strategy Brief has been completed, a **Kick-off meeting** is held in which the business objectives to be achieved and what is expected of mendesaltaren are delved into. The Kick-off meeting helps to establish measurable and attainable objectives, as well as setting a realistic roadmap. In this session, we must begin to unravel the problem, as well as throw out hypotheses as to why it has arisen. We want to be quick with coming up with possible solutions, both from our stakeholders, the client's team and our own team. In this way, we can assess how flexible and receptive our stakeholders are, and how easy it will be to convince them of our given solutions. A good exercise to use in this phase is the **Product Canvas,** which is explained below.
 
 ### 2.4 Product canvas
 
-El product canvas es una herramienta muy útil que nos permite tener una foto global del producto mediante el acercamiento cliente-agencia. Se parece mucho a un canvas de negocio pero enfocado a producto. Es, en última instancia, una herramienta de comunicación, que busca, partiendo del segmento de cliente de un producto, detectar sus necesidades insatisfechas así como las carencias y beneficios del producto para transformar todas ellas en una propuesta de valor sólida que posteriormente se materialice en un set de funcionalidades no priorizadas. De este set de funcionalidades, "la carta de Los Reyes Magos", podremos extraer las bases del producto.
+The product canvas is a very useful tool that allows us to have an overview of the product. It is very similar to a business canvas but focused on the product. It is, ultimately, a communication tool, which seeks to identify a client's unsatisfied needs as well as the shortcomings and benefits of the product. From here we can create a solid value proposition that is later translated into a set of non-prioritized functionalities. From this set of functionalities, "a wish list to Santa", we will be able to obtain the guidelines for the product.
 
-Involucra a representantes de los diferentes equipos en una dinámica de toma de decisiones en base a un proceso. Es imprescindible la figura de un facilitador que vaya tomando nota en nuestro canvas de las aportaciones de los participantes de la dinámica. Este facilitador no debe tomar partido de la toma de decisiones para así ayudar al resto a verbalizar ideas, seleccionarlas, categorizarlas y evitar bloqueos.
+This canvas involves representatives from the different teams which creates a more dynamic decision-making process. It is essential to have a facilitator taking notes of each participant's contributions. This facilitator should not take part in the decision-making process but focus on helping the rest communicate their ideas, prioritize them and avoid mental roadblocks.
 
-El product canvas es también una forma estupenda de que el equipo del cliente nos conozca y entienda que estamos ahí para escucharles y ayudarles a mejorar sus procesos y productos.
+The product canvas is also a great way for the client's team to know us and understand that we are there to listen and help them to improve their work processes and products.
 
-![Diagrama del flujo general de trabajo que usamos en el estudio](.gitbook/assets/global-workflow.jpg)
+![General workflow diagram used in the studio](.gitbook/assets/global-workflow.jpg)
 
-* **Segmento de cliente**
+* **Customer segment** What is the target of our product? Who is it aimed at?
+* **Unmet needs**  What are the identified needs in the market to which the solutions are being made?
+* **Pains** What are the pain points that the client has in order to carry out the product? → Weaknesses
+* **Gains** What are the customer's strengths that can help contribute to the realization of the product? → Strengths
+* **Value Proposition** The value proposition is the last corner of the rectangle to be completed. It is important that it be the last one, as it must nourish all that has been brought up on the other corners. The value proposition represents the competitive advantage of the product over those already in the market. What will make customers choose our product over others?
+* **Feature set** What are the features of the product?
+* **UX** What UX tools and methods are going to be used to get to know our users? How are we going to get information about them?
+* **Channels** What are the channels through which the product will be made known? What channels does the product use?
+* **Pricing** How will the product be monetized?
 
-  ¿Cuál es el target de nuestro producto? ¿A quién va dirigido?
+### 2.5 Documentation
 
-* **Necesidades insatisfechas**
-
-  ¿Cuáles han sido las necesidades observadas en el mercado a las que se les busca solución?
-
-* **Pains**
-
-  ¿Cuáles son los pains que tiene en cliente para llevar sacar el producto? → Debilidades
-
-* **Gains**
-
-  ¿Cuáles son los puntos fuerte del cliente que ayudan y contribuyen a llevar a cabo el producto? → Fortalezas
-
-* **Propuesta de valor**
-
-  La propuesta de valor es el último rectángulo en ser completado. Es importante que sea el último, ya que se debe nutrir de todo lo planteado en los demás.
-
-  La propuesta de valor representa la ventaja competitiva del producto respecto a los que ya hay en el mercado. ¿Qué es lo que hace que los clientes elijan nuestro producto?
-
-* **Feature set**
-
-  ¿Cuáles son las características del producto?
-
-* **UX**
-
-  ¿Qué herramientas y ejercicios de UX se van a utilizar para conocer a nuestros usuarios?¿Cómo vamos a conseguir información de ellos?
-
-* **Canales**
-
-  ¿Cuáles son los canales a través de los cuales se va a dar a conocer el producto? ¿Cuáles son los canales que utiliza el producto?
-
-* **Pricing**
-
-  ¿Cómo se va a monetizar el producto?
-
-### 2.5 Documentación
-
-Documentar el proceso que realicemos es tanto o más importante como el proceso en sí. Sin una correcta documentación, la información se ira perdiendo con el paso de los días, e incurriremos en errores o asincronías que entran en el terreno de la incertidumbre. Para documentar utilizamos varias herramientas, centralizándolo todo en Notion. Documentamos impresiones de nuestros clientes en cada reunión, aspectos de la organización tales como objetivos, roadmaps o entregables, enlaces relacionados de interés, conclusiones que obtenemos y presentaciones que vamos realizando a nuestros clientes a lo largo del proyecto.
+Documenting the process we carry out is as important or more important as the process itself. Without correct documentation, the information will be lost with the passing of days, and we will have mistakes or inconsistencies that enter the terrain of uncertainty. To document our work we use several tools, centralizing everything in Notion. We document the feedback from our clients at each meeting, aspects of organization such as objectives, roadmaps or deliverables, related links of interest, conclusions we obtain and presentations we make to our clients throughout the project.
 
 ### 2.6 Research
 
-Una vez tenemos una serie de hipótesis bien claras sobre nuestro producto o marca, pasamos a investigar acerca del mismo. Dependiendo del tipo del servicio que ofrecemos este research el plan irá cambiando. En un trabajo con un gran peso de branding, habrá una dedicación mayor a competencia y mercado que en un proyecto de definición, donde gran parte de los recursos irán más enfocados a la investigación sobre usuarios. Pero sea como sea este plan, seguirá las siguientes fases:
+Once we have a series of very clear hypotheses about the problem at hand, we go on to research the subject. Depending on the type of service we are offering, this research plan will change. When a project focuses on branding, there will be a greater emphasis on the competition and market than on projects focused on the definition phase, where a large part of our time would be focused on user research. But whatever this plan is, it will follow the following phases:
 
-* Recolectar información. Plantearemos aquellas dinámicas o herramientas que sean necesarias para extraer toda la información que creamos valiosa para empezar a validar hipótesis y plantear las siguientes.
-* Extraer conclusiones. Produciremos aquellos documentos que nos permitan establecer y comunicar aquellas conclusiones que podamos asumir en base a la data obtenida mediante la recolección de información.
-* Compartir y validar. Toda la información generada debe ser compartida y validada con el cliente, no solo por la utilidad que pueda reportarle, si no para dar también valor a nuestro trabajo y apoyar las decisiones que tomemos posteriormente en procesos racionales. Esta fase podría repercutir en seguir investigando.
+* Gathering information. We will propose those activities or tools that are necessary to obtain all the information that we think is valuable to begin to validate our hypothesis and propose the following ones.
+* Draw conclusions. We will create those documents that allow us to establish and communicate any conclusions that we can come up with based on the data obtained through the collection of information from our research.
+* Share and validate. All the information generated must be shared and validated with the client, not only for the usefulness it may bring, but also to give value to our work and support the decisions we make later in the process. This phase could result in further research.
 
-### 2.7 **Recolectar información**
+### 2.7 **Gathering information**
 
-A la hora de recabar información valiosa existen multitud de herramientas y dinámicas. Describimos algunas de ellas por ser las más habituales dentro del estudio.
+When it comes to gathering valuable information, there are many tools and techniques. We describe some of them because they are the most frequently used within the studio.
 
-* Shadowing. Consiste en seguir y observar al usuario en el lugar y el momento en el que se hace uso de la plataforma. Conviene no interferir en su desempeño y nos permite extraer información valiosa de uso real con pocos sesgos.
-* Desk research. Se trata de buscar información al uso, ya sean artículos, investigaciones, entrevistas, probar productos y servicios similares... El objetivo es  documentar el problema a tratar en base a la investigación que hayan hecho otros y recabar toda la información posible sobre el contexto, competencia, mercado...
-* Encuestas. Realizar una serie de encuestas a usuarios nos permitirá extraer información sobre nuestro producto. Son especialmente útiles a la hora de medir grupos grandes de población. Es importante no lanzar preguntas demasiado directas ni pedir juicios de valor ya que los sesgos que se ejercen suelen inclinar la respuesta hacia la complacencia. En general, es recomendable tipificar la mayoría de las preguntas en caso de que la muestra sea grande, dejando las preguntas abiertas para muestras pequeñas.
-* Entrevistas. Si queremos información cualitativa unas pocas entrevistas serán mucho más valiosas que un gran número de encuestas. De nuevo, es clave no coaccionar a nuestros usuarios con preguntas demasiado cerradas. La clave es generar un ambiente cómodo donde los entrevistados se sientan libres de expresarse sin ser juzgados, adoptando el entrevistador un papel pasivo como mero facilitador. Es también de gran valor realizar entrevistas a miembros clave de la organización.
+* Shadowing. This consists of following and observing the user on location and at the moment in which the platform is used. It is advisable not to interfere with their interactions with the platform. It also allows us to extract valuable information on real use cases with few biases.
+* Desk research. Here we are looking for information in everyday use, be it articles, research, interviews, testing similar products and services... The objective is to document the problem to be addressed according to the research that others have done and gather as much information as possible about the context, competition, market...
+* Surveys. Conducting a series of user surveys will allow us to extract information about our product. They are particularly useful when measuring a large number of people. It is important not to ask straightforward questions or ask for evaluative responses as the biases that are brought about often incline the answer towards their contentment and satisfaction. In general, it is advisable to create straightforward questions if the sample is large, leaving the open-ended questions for small samples.
+* Interviews. A few interviews will be much more valuable than a large number of surveys if we want qualitative information. Again, it is key not to impose our users with too many closed questions. The key is to create a comfortable environment where interviewees feel free to express themselves without being judged, with the interviewer taking a passive role as a mere facilitator. It is also valuable to conduct interviews with key members of the organization.
 
-### **2.8 Extraer conclusiones**
+### **2.8 Drawing conclusions**
 
-Las conclusiones que extraigamos pueden ser representadas de muchas formas. Destacamos dos por ser de los más habituales en diseño producto.
+The conclusions we come up with can be represented in many ways. We highlight two as they are the most frequently used in product design.
 
-* Customer Journey. Muestra de forma visual el proceso que sigue un usuario durante el uso de nuestro producto o servicio. Interpreta lo que espera conseguir y cómo se siente durante el proceso con especial atención a aquellos puntos donde se genera frustración. Permite señalar aquellos procesos que provocan fricción y donde es posible una mejoría. Es ideal establecer estos journeys en base a información real.
-* User Personas. Existen dos tipos, protopersonas, si la información de base es inventada, y personas, si las estamos realizando en base a información real extraida previamente. Se trata de componer una personalidad realista de usuarios del producto. Nos permite destacar cuales son sus necesidades, frustraciones, gustos, herramientas... para así atacar el diseño desde la óptica adecuada.
-* Otros documentos tales como benchmark, investigación de mercado...
+* User Personas. There are two types: protopersonas, if the basic information is invented, and personas, if we are creating them based on real information that we have previously extracted. It is about composing a realistic personality of our users. It allows us to highlight their needs, frustrations, tastes, tools... in order to attack the design from the right point of view.
+* Customer Journey. It visually shows the process that a user follows during the use of our product or service. It show his motivations and feelings during the process with special attention to those points where frustration is generated. It allows you to point out those processes that cause friction and where improvement is possible. It is ideal to establish these journeys on real information.
+* Other methods include benchmarking, market research...
 
 {% hint style="info" %}
-No olvidemos documentar todos los resultados de cada fase en Notion.
+Let us not forget to document all the results of each phase in Notion.
 
-👉 En [**Notion**](tools/notion.md) puedes conocer más sobre cómo creamos y documentamos un proyecto
+👉 In [**Notion**](tools/notion.md) ****you can learn more about how we create and document a project.
 {% endhint %}
 
-## 3. Definición
+## 3. Definition phase
 
-Durante la fase de definición, sentaremos las bases de lo que será nuestro producto o marca. En esta etapa, se debe restar toda la complejidad posible para convertir un montón de documentos, gráficas, apuntes y anotaciones en una entidad de consumo.
+While in the definition phase, we will lay the foundations of what will be our product or brand. At this stage, we must take away as much complexity as possible to turn a bunch of documents, graphs, notes, and annotations into a consumer entity.
 
-**Los objetivos de la fase de definición son los siguientes:**
+**The objectives of the definition phase are as follows:**
 
-* Restar complejidad al producto o marca. Esto puede incluir la definición de una nomenclatura transversal a los equipos.
-* Generar aquella narrativa que nos permita sostener nuestro discurso.
-* Cumplir con todos los objetivos marcados a alto nivel. No se trata de decir cómo será el campo de formulario concreto que vamos a medir, pero sí pensar en aquellas secciones o módulos que cumplan funciones y objetivos concretos.
-* Construir la arquitectura de información que será el esqueleto de nuestro producto.
-* Establecer una jerarquía realista de qué funcionalidades conformarán la siguiente release o MVP y por qué.
-* Convertir lo abstracto en concreto.
+* Subtract complexity from the product or brand. This may include the definition of a naming system across the teams.
+* Generate the narrative that allows us to sustain our discussion.
+* Comply with all the objectives at a global level. It is not a question of defining what the specific form field we are going to create will be like, but more about thinking about those sections or modules that fulfill specific functions and objectives.
+* Build the information architecture that will be the outline of our product.
+* Establish a realistic hierarchy of which functionalities will make up the next release or MVP and why.
+* Turn the abstract into concrete.
 
-### 3.1 Ideación
+### 3.1 Ideation
 
-El objetivo de esta fase es definir y concretar las funcionalidades del producto, las cuales han de estar alineadas con las necesidades de nuestros usuarios.
+The objective of this phase is to define and specify the functionalities of the product, which must be aligned with the needs of our users.
 
-Una vez hemos validado y entendido el problema, empezamos a buscar soluciones. Cuantas más mejor. Priorizando la cantidad antes que la calidad. En esta fase, exploramos ideas que trascienden de la solución "obvia". Tratamos de generar muchas ideas antes de empezar con el proceso de seleccionar y desarrollar conceptos concretos. Realizamos un trabajo de divergencia para posteriormente converger.
+Once we have validated and understood the problem, we start looking for solutions. The more we come up with the better, prioritizing quantity before quality. In this phase, we explore ideas that go beyond the "obvious" solution. We try to generate many ideas before starting the process of selecting and developing concrete concepts. We do divergence work and then converge.
 
-Las historias de usuario son un buen ejercicio que nos ayuda en esta fase a encontrar funcionalidades desde el punto de vista de nuestros usuarios, teniendo en cuenta sus frustraciones, problemas, objetivos y motivaciones.
+User stories are a good exercise that helps us define features from the point of view of our users, taking into account their frustrations, problems, goals, and motivations.
 
 **Las historias de usuario:**
 
-* Nos dan contexto sobre el problema.
-* Nos ayudan a estar centrados en buscar soluciones para nuestros usuarios, empatizando con ellos.
-* Nos permiten diferenciar fácilmente entre los distintos tipos de consumidores de nuestro producto.
-* Nos ayudan a detectar funcionalidades.
+* They give us context about the problem.
+* They help us to be focused on finding solutions for our users and empathizing with them.
+* They allow us to easily differentiate between the different types of consumers of our product.
+* They help us to define features.
 
-Para realizar historias de usuario utilizamos el siguiente esqueleto, teniendo en cuenta la necesidad que tiene el usuario y valor que le aporta suplir dicha necesidad.
+To create our user stories we use the following outline, taking into account the user's needs and the value that meets that need.
 
 {% hint style="info" %}
-**Como \_\_\_\_\_\_\_\_\_\_\_ quiero \_\_\_\_\_\_\_\_\_\_\_ para \_\_\_\_\_\_\_\_\_\_\_ .**
+**As a\_\_\_\_\_\_\_\_\_\_\_ I want \_\_\_\_\_\_\_\_\_\_\_ so that \_\_\_\_\_\_\_\_\_\_\_ .**
 
-**En una aplicación de un supermercado, un ejemplo podría ser:**  
-"Como cliente recurrente quiero poder buscar entre mis pedidos anteriores para realizarlos de nuevo de forma rápida."
+**In a supermarket application, an example might be:**  
+"As a returning customer, I want to be able to search through my previous orders so that I can place them again quickly."
 
-**La funcionalidad que derivaría de esta historia de usuario sería:**  
-Tener una lista de pedidos realizados dentro de su perfil para poder repetir estos siempre que el usuario quiera.
+**The created feature that would result from this user story would be:**  
+They have a list of orders placed within their profile to be able to reuse them whenever they want.
 {% endhint %}
 
-Al realizar las historias de usuario no buscamos definir cómo va a ser la solución que satisfaga las necesidades de éste, sino únicamente detallar las funcionalidades que permiten solucionar el problema detectado.
+When creating user stories, we do not seek to define what the solution will specifically be like for the user, but only to detail the features that allow solving the detected problem.
 
-Es importante el constante feedback de los _stakeholders_ y del equipo del cliente.
+Constant feedback from stakeholders and the client team is important.
 
-### 3.2 Arquitectura de contenido
+### 3.2 Content Architecture
 
-**Una vez tenemos claro qué** queremos hacer, **pasaremos a definir el cómo**. Antes de pensar en soluciones gráficas debemos organizar la complejidad a la que nos enfrentamos para hacerla digerible. Se trata de decidir cuál es el contenido idóneo y cuál va a ser la estructura para mostrarlo, organizando la información disponible mediante mapas conceptuales, árboles de contenido y flujos.
+**Once we are clear about what** we want to do, we will move on to **defining the "how".** Before thinking about visual design, we must organize everything in order to make it manageable. It is a question of deciding what the ideal content will be and our overall structure of how we will show it. We do this by organizing the available information by means of conceptual maps, content trees, and user flows.
 
-**Realizar una arquitectura de información nos permite:**
+**Creating an information architecture allows us to:**
 
-* Identificar y jerarquizar los componentes que estarán presentes en la app o web en la que estemos trabajando.
-* Organizar, estructurar y nombrar componentes de una forma efectiva y sostenible a lo largo del proyecto.
-* Identificar KPI's y darles la importancia que requieren.
-* Tomar decisiones de contenido de alto nivel de forma rápida, reflexionando en abstracto sobre el orden y pertenencia de secciones y objetivos funcionales.
+* Identify and prioritize the components that will be present in the app or web in which we are creating.
+* Organize, structure and name components in an effective and sustainable way throughout the project.
+* Identify KPI's and give them the priority they require.
+* Make high-level content decisions quickly, reflecting, in a nutshell, the order and relevance of each section and their intended functions.
 
-La arquitectura de contenido en su bajada a branding incluye la detección de todos los diferentes touchpoint de la marca y cómo el usuario interactúa con los mismos.
+The architecture of content with regards to branding includes the identification of all the different touch points of the brand and how the user interacts with them.
 
-### 3.3 **Mapas conceptuales**
+### 3.3 C**oncept maps**
 
-Realizamos mapas conceptuales para organizar información de diversa índole. Se puede utilizar para organizar datos en una tabla, distribuir secciones de un producto, organizar contenidos de una sección o incluso para reorganizar las ya existentes probando diferentes disposiciones. La principal función de un mapa conceptual es **agrupar** contenido.
+We create concept maps to organize information that includes a diverse array of topics. It can be used to organize data in a table, to distribute sections of a product, to organize the content of a specific part or even to reorganize the existing ones trying different layouts. The main function of a concept map is to **group** content.
 
-**Los mapas conceptuales nos permiten:**
+**Concept maps allow us to:**
 
-* Ver de un vistazo todo el contenido que va a haber en un grupo temático.
-* Ordenar y comprender bloques, dando sentido a la información.
-* Jerarquizar y descartar.
+* See at a glance all the content that is going to be in a thematic group.
+* Sort and understand blocks, giving meaning to the information.
+* Create hierarchy and discard the unnecessary.
 
-**En un mapa conceptual distinguimos entre las siguientes jerarquías:**
+**In a concept map we distinguish between the following hierarchies:**
 
-1. KPI: acción o contenido más importante.
-2. Actions: acciones de importancia secundaria.
-3. Notes: componentes que tienen una función principal.
-4. Secondary notes: módulos y componentes de información de apoyo.
+1. KPI: most important action or content.
+2. Actions: actions of secondary importance.
+3. Notes: components that have a main function or purpose.
+4. Secondary notes: modules and components with supporting information.
 
-Realizar un mapa conceptual es tan sencillo como recopilar todos los bloques de información que tenemos que organizar y disponerlos en un orden lógico en un eje horizontal o vertical. Es muy importante usar algún código para jerarquizar los distintos bloques según su importancia. Una vez tengamos varios bloques conceptuales, podemos establecer relaciones mayores organizando en un segundo paso los grupos entre sí. Una evolución lógica de un mapa conceptual podría ser un árbol de contenidos.
+Making a concept map is as simple as compiling all the blocks of information that we have and organizing and arranging them in a logical order in a horizontal or vertical way. It is very important to use some system to prioritize the different blocks according to their importance. Once we have several conceptual blocks, we can establish their overall relationships by organizing the groups among them in a second step. A logical evolution of a concept map could be a sitemap.
 
 {% hint style="info" %}
-**💡** Para realizar los mapas conceptuales fácilmente puedes utilizar la librería **concept maps systems**.
+**💡** To make concept maps you can easily use the **concept maps system** library.
 
 📎 [concept maps system.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/concept-maps-system.sketch)
 {% endhint %}
 
-### 3.4 Árbol de contenido
+### 3.4 Sitemap
 
-Un árbol de contenido se parece a un mapa conceptual pero tiene varias secciones y ramificaciones. Sirve para organizar y establecer las agrupaciones y dependencias de un producto digital. Es siempre de gran utilidad e imprescindible cuando creamos un proyecto desde cero o cuando el proyecto cuente con mucha información y contenido, y sea necesario llevar a cabo una reestructuración de éste. Un árbol de contenido muestra restricciones entre las páginas de la app o web y permite documentar la organización y navegación de ésta.
+A sitemap resembles a concept map but has several sections and branches. It serves to organize and establish the groupings and interdependencies of a digital product. It is very useful when we create a project from scratch or when the project has a lot of content that needs restructuring. A sitemap shows us the constraints between the pages of the app or website and allows us to document its organization and navigation.
 
 {% hint style="warning" %}
-Es importante no confundir un _árbol de contenido_ con un _flujo_. Un _árbol de contenido_ refleja las páginas y en qué nivel se encuentran éstas, pero no refejan el orden ni las distintas casuísticas según la interacción de los usuarios.
+It is important not to confuse a _sitemap_ with a _user flow_. A _sitemap_ reflects the pages and their hierarchical level, but it does not reflect the order or the different scenarios of user interaction.
 {% endhint %}
 
-Un proceso de trabajo de un árbol de contenido tipo, partiendo de unos mapas conceptuales, podría describirse así:
+A process of working with a sitemap, building upon a concept map, could be described as follows:
 
-1. Organizar todos las bloques identificados en los mapas conceptuales en una estructura global. Esta estructura debe considerar los distintos niveles de navegación \(primario, secundario, etc.\). No es necesario tener presentes todos los bloques que conforman los mapas conceptuales, solamente identificarlos.
-2. Organizar el contenido en páginas distintas.
+1. Organize all the blocks identified in the concept maps into a global structure of themes. This structure should consider the different levels of navigation \(primary, secondary, etc.\). It is not necessary to bear in mind all the blocks that make up the concept maps, only to identify them.
+2. Organize the content into different pages.
 
 {% hint style="info" %}
-**💡** Para realizar un árbol de contenido se puede utilizar la librería de Sketch **flowchart system.**
+**💡** You can use the Sketch **flowchart system** library to create a content tree.
 
 [flowchart systems.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/flowchart-systems.sketch)
 {% endhint %}
 
-### 3.5 **Flujos**
+### 3.5 User Flows
 
-Los flujos muestran **como interactúa un usuario** con un producto o servicio, mostrando diferentes caminos en función de la interacción de los usuarios. Permiten detectar _pain points_ en los distintos _funnels_ de la app o web, así como reflexionar en abstracto y tomar decisiones sobre las diferentes casuísticas y opciones de uso de un servicio o producto.
+The user flows show **how a user interacts with a product or service**, exposing different paths depending on the interaction of the user. They allow us to detect pain points in the different features of the app or web, as well as to reflect and make decisions based on the different scenarios observed during the use of a service or product.
 
 {% hint style="warning" %}
-Los flujos se pueden realizar a lo largo de toda la etapa de definición y serán siempre útiles. Antes de realizar los wireframes es importante tener creado un flujo para validar con el cliente la navegación y estructura de la app o web.
+User flows can be made throughout the definition stage and will always be helpful. Before making the wireframes it is important to have created a user flow to validate with the client both the navigation and structure of the app or web.
 {% endhint %}
 
-Existe una convención estándar para la realización de flujos denominada "flowchart system". Es muy sencilla y conocerla nos permitirá realizar flujos legibles por multitud de perfiles. Esta convención puede ser adaptada a cualquier producto o servicio. Recomendamos usar el archivo adjunto, realizado por nosotros, para la creación de tus flujos.
+There is a standard convention for the realization of user flows called "flowchart system". It is very simple, and knowing it will allow us to make user flows readable by people of different backgrounds. This standard can be adapted to any product or service. We recommend using the attached file, made by us, for the creation of your user flows.
 
 {% hint style="info" %}
-**💡** Para preparar tus flujos se puede utilizar la librería de Sketch **flowchart system.**
+**💡** To prepare your flows you can use the Sketch **flowchart system** library.
 
 [flowchart systems.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/flowchart-systems.sketch)
 {% endhint %}
 
-### 3.6 Componentización
+### 3.6 Creating components
 
-Durante la componentización ponemos en relieve todos los módulos que conforman nuestro producto final y/o todas las piezas que forman parte de una marca. La idea es encontrar patrones que nos permitan resolver todos los problemas que se nos plantean con el número mínimo posible de soluciones.
+Here we highlight all the modules that make up our final product and/or all the parts that are part of a brand. The idea is to find patterns that allow us to solve all the problems we are faced with the minimum possible number of solutions.
 
-Dependiendo del punto de partida del proyecto esta labor puede realizarse, bien separando en componentes todo el producto del que partimos, o bien a partiendo de lo que vayamos generando durante la fase de wireframing. Una forma de hacerlo podría ser separarando todos los módulos de un wireframe de baja fidelidad, de manera que podamos identificar qué objetivos y problemas resuelven cada uno de ellos, con la idea de encontrar patrones que nos permitan reducir al mínimo las soluciones de diseño, encontrando formas versátiles de resolver dichos problemas.
+Depending on the starting point for a project, this work can be carried out either by separating the whole product into components or by starting from what we generate during the wireframing phase. One way to do this could be to separate all the modules of a low fidelity wireframe so that we can identify which objectives and problems solve each of them. The idea behind this is to help find patterns that allow us to reduce design solutions to a minimum, finding multiple ways to solve these problems.
 
-Más que una herramienta propiamente dicha, la componentización es una forma de pensar que nos permite simplificar un producto o marca en cualquiera de sus fases.
+More than a tool itself, creating components is a way of thinking that allows us to simplify a product or brand in any of its phases.
 
-### 3.7 Conceptualización
+### 3.7 Concept creation
 
-**Concepto**
+**Concept**
 
-Representación mental de un objeto, hecho, cualidad, situación, etc.
+A mental representation of an object, fact, attribute, situation, etc.
 
-Conceptualizar es la única forma que entendemos de dotar de alma un producto. Un concepto es la base sobre la que se articula su narrativa.
+Concept creation is the only way we believe we can endow a product with a soul. The concept is the foundation on which its narrative is articulated.
 
-Conceptualizar es absolutamente imprescindible en un trabajo de Branding. Sin un concepto sólido sobre el que apoyarnos una marca será frágil y dificilmente reflejará los objetivos que se persiguen a nivel estratégico, ya que estará desnuda a la hora de encontrar maneras de abordarlos. Es importante tratar de ser simples en cuanto a un concepto. Un error habitual es tratar de ser rebuscados. Suele desembocar en una incapacidad posterior de expresar dicho concepto en recursos gráficos o narrativos. Una obviedad bien llevada puede ser un valor seguro a la hora de conceptualizar.
+Conceptualizing is absolutely essential in the work of Branding. Without a solid concept on which to base a brand, it will only be fragile and difficult to portray the objectives pursued at a strategic level. That is, it will be completely unprepared when it comes to finding ways to approach them. It is important to keep the concept simple. A common mistake is to try to be fancy. It often results in a later inability to express that concept in graphics or narrative resources. A well-conducted truism can surely add a lot of value when conceptualizing.
 
-Durante el proceso de crear, ya sea una marca, producto o cualquier otra pieza, hemos de ser conscientes de que partimos de un lugar alejado del mundo de las ideas. Si conseguimos asociar el trabajo que realicemos con alguna de esas ideas, el público podrá asimilar aquellos valores o adjetivos que pretendemos expresar. Solo siendo conscientes de esa limitación podremos darnos cuenta del esfuerzo que conlleva que nuestro trabajo se identifique con un concepto claro.
+During the process of creating, whether it is a brand, product or any other piece, we must be aware that we are starting from a place far from the world of ideas. If we manage to associate the work we do with any of these ideas, the public will be able to assimilate those values or adjectives that we intend to express. Only by being aware of this limitation can we recognize the difficulty involved in identifying our work with a clear concept.
 
-Es común que la conceptualización quede escorada en trabajos de producto digital puro y duro. Pero si trabajamos en base a un concepto, dotaremos a nuestro producto de un hilo conductor. Y dicho hilo conductor puede verse reflejado desde una splash screen hasta el último copy de un botón.
+It is common when conceptualizing to be limited to works of a purely digital product. But if we work on the basis of a concept, we will provide our product with a common theme. This thread can be seen reflected from a splash screen to the last copy of a button.
 
-Para no limitarnos y ampliar la riqueza narrativa de una marca, solemos trabajar con dos tipos de conceptos complementarios: narrativos y gráficos.
+In order not to limit ourselves and extend the narrative richness of a brand, we usually work with two types of complementary concepts: narrative and graphics.
 
-**Concepto narrativo**
+**Narrative concept**
 
-Un concepto narrativo articula el lenguaje de un producto o marca. Por ejemplo, si el concepto narrativo fuera "esfuerzo", podríamos usar expresiones donde se pone en valor la dificultad o lo arduo de llevar a cabo una acción.
+A narrative concept articulates the language of a product or brand. For example, if the narrative concept were "effort", we could use expressions that value the difficulty or arduousness of carrying out an actio
 
-**Concepto gráfico**
+**Graphic concept**
 
-Un concepto gráfico debe permitirnos encontrar recursos visuales simples que apoyen la narración. Partiendo del ejemplo anterior, para complementar "esfuerzo" podríamos buscar el concepto de "tensión" visual. Esto nos permitiría usar, p.e., geometrías estiradas, a punto de colapsar, o en escorzo.
+A graphic concept should allow us to find simple visual resources that support the narration. Starting from the previous example, to complement "effort" we could look for the concept of visual "tension". This would allow us to use, e.g., stretched geometries, about to collapse, or foreshorten.
 
-Una forma interesante y práctica de testear las posibilidades de expresión de nuestro concepto sería usar la siguiente fórmula:
+An interesting and practical way to test the possibilities of expressing our concept would be to use the following formula:
 
 {% hint style="info" %}
-**Si nuestro concepto es \_\_\_\_\_\_\_\_, nuestros recursos gráficos serán/estarán \_\_\_\_\_\_\_\_.**
+**If our concept is \_\_\_\_\_\_\_\_, our graphics resources will/will be \_\_\_\_\_\_\_\_.**
 {% endhint %}
 
-Y continuando con el ejemplo anterior:
+And continuing with the previous example:
 
-Si nuestro concepto es **esfuerzo**, nuestros recursos gráficos estarán en **tensión**.
+If our concept is **effort,** our graphics resources will **stress tension**.
 
-## 4. Producción
+## 4. Production
 
-Este es un punto clave dentro del proceso. En él vamos a **materializar la propuesta de valor** que hemos estado gestando en los pasos previos. A estas alturas del proceso, las funcionalidades del producto deben estar ya acotadas. Haber hecho un buen trabajo anteriormente y tener las ideas claras, se traducirá en una una mayor velocidad y fluidez en el desarrollo de esta fase.
+This is a key point within the process. In it, we are going to **materialize the value proposition** that we have been developing in the previous steps. At this stage of the process, the features of the product must be delimited. Having done a good job beforehand with clearly defined ideas will translate into greater agility and fluidity in the development of this phase.
 
-Para proceder a la producción del producto, trabajaremos de lo más abstracto y general a lo más concreto y particular. A grandes rasgos, los pasos de esta fase serían: _wireframing_ → prototipado → diseño. Pasamos a explicar cada uno de ellos.
+In order to proceed to the production of a product, we will work from the abstract and general to the most concrete and particular. Broadly speaking, the steps of this phase would be: wireframe → prototype → design. Let us explain each one of them.
 
-### 4.1 Wireframing
+### 4.1 Wireframes
 
-Un _wireframe_ es un **boceto** donde se representa visualmente y de forma **esquemática** la estructura de un producto digital o de alguna de sus partes. Son realmente útiles para validar las ideas e hipótesis con el cliente y realizar iteraciones sobre nuestras teorías. Estos bocetos pueden hacerse indistintamente a mano o de forma digital. Lo importante es mantenerse alejado de los acabados visuales finales, pues sería una pérdida de tiempo preocuparse de ellos en este estadio.
+A wireframe is a **sketch** where the structure of a digital product or any of its parts is represented visually and **schematically**. They are really useful to validate ideas and hypotheses with the client and make iterations on our theories. These sketches can be done either by hand or digitally. The important thing is to stay away from the final visual versions because it would be a waste of time to worry about them at this stage.
 
-El **objetivo de la fase** de _wireframing_ es definir desde el flujo de navegación y los bloques de contenido del producto, hasta la posición y el funcionamiento de los distintos componentes que los formarán. Para ello, delimitamos dos tipos de _wireframes_:
+The **objective of the wireframing phase** is to define everything from the navigation flow and the content blocks of the product to the position and functionalities of the different components. To do this, we distinguish two types of wireframes:
 
-* **Lo-fi**. Como diseñadores, son nuestro punto de partida para traducir la propuesta de valor en un _layout_. Deben proporcionarnos una imagen muy sencilla de cómo se va a estructurar la información a nivel general. Se trabaja en base a bloques que cumplen objetivos, sin ahondar en como funciona cada bloque por dentro. Sirven para validar la distintos módulos que conformarán cada sección, las relaciones entre ellos, reducir al mínimo el número de componentes, y generar una estructura bien definida de forma rápida.
-* **Hi-fi**. Los wireframes en alta son la evolución natural en la cual empezamos a ver cómo funciona cada módulo y componente. La idea es validar la funcionalidad final del producto antes de preocuparnos por el visual.
+* **Lo-fi.** As designers, they are our starting point for translating the value proposition into a layout. They should provide us with a very simple picture of how the information will be structured at a general level. We work on the basis of blocks that meet objectives, without delving into how each block works on the inside. They serve to validate the different modules that will make up each section and the relationships between them. They also help reduce the components to a minimum, and generate a well-defined structure quickly.
+* **Hi-fi.** High wireframes are the natural evolution in which we begin to see how each module and component works. The idea is to validate the final functionality of the product before worrying about the visual.
 
 {% hint style="info" %}
-**💡 Tip**: Para crear los wireframes utilizamos la librería **wireframes system**.
+**💡 Tip**: To create the wireframes we use the library **wireframes system.**
 
 ​[wireframes system.sketch](https://github.com/mendesaltaren/product-design-handbook/raw/master/assets/sketch/wireframe-system.sketch)
 {% endhint %}
 
-### 4.2 Prototipado
+### 4.2 Prototyping
 
 Prototipar proporciona la versatilidad de poder testar el producto con usuarios en etapas tempranas y detectar problemas a nivel de navegación y contenido. Cuando hablamos de prototipo nos referimos a: diseños en mayor o menor medida cercanos en fidelidad al producto final, que nos permiten interactuar con las funcionalidades que proponemos.
 

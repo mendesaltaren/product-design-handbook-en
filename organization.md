@@ -1,202 +1,193 @@
-# 1. Cómo nos organizamos
+# 1. How we organize ourselves
 
-## 1. Organización del equipo
+## 1. Organization of the team
 
-En este apartado compartiremos nuestra organización básica a distintos niveles. Por un lado, hablaremos de cómo organizamos el trabajo en base a los objetivos. Bajaremos un escalón para hablar de qué tipo de reuniones realizamos para coordinar y organizar nuestro caudal de trabajo y daremos pistas sobre la manera en la que organizamos un proyecto concreto.
+In this section, we will share our basic organization at different levels. On one hand, we will talk about how we organize our work based on objectives. We will take it further by talking about what kind of meetings we hold to coordinate and organize our workflow and we will give you a glimpse into the way in which we organize a specific project.
 
-### 1.1 **Semana, mes, trimestre, año**
+### 1.1 Week, month, quarter, year
 
-En el equipo trabajamos en torno a objetivos. Distinguimos cuatro tipo de objetivos en función de su dimensión: anuales, trimestrales, mensuales y semanales.
+On the team, we work around objectives. We distinguish four types of objectives according to their size: annual, quarterly, monthly and weekly.
 
-Definimos estos objetivos siguiendo los principios SMART, es decir, deben ser específicos, medibles, alcanzables, relevantes y definidos en un tiempo específico. Nótese que usamos una variante diferente a la establecida por George T. Doran, sustituimos asignables por alcanzables y realistas por relevantes, ya que, para nosotros, es fundamental que esos objetivos tengan impacto y nos acerquen a las metas que queremos alcanzar. Además, es fundamental que todos los objetivos cumplan este criterio porque nos obliga a dejar a un lado los objetivos aspiracionales y reducir el autoengaño y la autocomplacencia.
+We define these objectives following SMART principles, that is, they must be specific, measurable, achievable, relevant and defined by a specific time. Note that we use a different variant to the one established by George T. Doran. We substitute "assignable" by "attainable" and "realistic" by "relevant" since for us, it is fundamental that these objectives have an impact and bring us closer to the goals we want to achieve. In addition, it is essential that all objectives meet this criterion because it forces us to set aside aspirational objectives and reduce self-deceptive thinking and complacency.
 
-Cada vez que definimos nuevos objetivos o se actualizan los anteriores se comparten con todos los integrantes del estudio para hacerlos partícipes. Esto nos permite estar alineados y compartir la visión del estudio.
+Each time we define new objectives or update the previous ones, they are shared with all the members of the studio in order to make sure it is a fully participatory process. This allows us to be on the same page and share the vision of the studio.
 
-Por último, tenemos claro que vivimos en tiempos de cambio constante. Debido a esto, cada trimestre revisamos los objetivos anuales tanto para ver si hemos perdido foco como para actualizarlos en función de las nuevas necesidades que hayan podido surgir. Esto nos permite actuar de forma más rápida ante los cambios y hacer que los objetivos anuales no pierdan sentido a lo largo del tiempo.
+Finally, we are clear that we live in times of constant change. Because of this, each quarter we review the annual objectives to both to see if we have lost focus and to update them based on any new needs that may have arisen. This allows us to act more quickly in the face of changes and to ensure that the annual objectives do not lose their meaning over time.
 
-**Objetivos anuales**
+**Annual targets**
 
-Los objetivos anuales son ambiciosos. Su función es definir dónde queremos estar en un año. Estos objetivos están relacionados con nuestro rendimiento, propuesta de valor, estrategia y posición competitiva.
+The annual targets are ambitious. Their function is to define where we want to be in a year. These objectives are related to our performance, value proposition, strategy, and competitive position.
 
-Con los objetivos anuales marcamos la meta pero no el camino. Son abstractos, y por ello los revisamos y concretamos trimestralmente mediante objetivos más pequeños y medibles.
+With our annual objectives, we set clear goals but not the means of getting there. They are abstract, which is why we review them and specify them quarterly by means of smaller and measurable objectives.
 
-**Objetivos trimestrales**
+**Quarterly targets**
 
-Cada tres meses, se realiza una reunión para definir los objetivos del siguiente trimestre y sus KPIs correspondientes. En esta reunión, revisamos si hemos cumplido los objetivos del trimestre anterior, analizamos el estado actual de la empresa y hacemos un seguimiento de los objetivos anuales para ver si es necesario actualizarlos. Con este análisis obtenemos una visión más clara de los aspectos en los que debemos poner el foco y que datos determinarán si hemos cumplido las metas que esperamos.
+Every three months, a meeting is held to define the objectives for the following quarter and their corresponding KPIs \(Key Performance Indicators\). At this meeting, we review whether we have met the previous quarter's objectives, analyze the current state of the company, and monitor the annual objectives to see if they need updating. With this analysis, we get a clearer picture of what we need to focus on and what data will determine whether we have met the goals we expected to achieve.
 
-**Objetivos mensuales**
+**Monthly objectives**
 
-Los objetivos mensuales surgen para simplificar los objetivos trimestrales, transformando estos en acciones a realizar. A principio de cada mes tiene lugar una reunión en la que organizamos el trabajo, definimos los objetivos del mes y establecemos prioridades. La planificación mensual nos ayuda a tener una visión más amplia que a una semana para eludir posibles problemas del futuro y optimizar recursos y tiempo.
+The monthly objectives exist to simplify the quarterly objectives, transforming these into actions to be carried out. At the beginning of each month, there is a meeting in which we organize the work, define the objectives for the month and establish priorities. The monthly planning helps us to have a broader vision than the weekly ones to avoid possible problems in the future and to optimize resources and time.
 
-**Objetivos semanales**
+**Weekly objectives**
 
-En el día a día del estudio trabajamos con objetivos semanales coordinando intereses y equipos. Para organizar y compaginar los distintos equipos y proyectos con los que trabajamos, adaptamos la metodología **Scrum** a nuestro trabajo, realizamos _plannings_, _dailies_ y retrospectivas para gestionar tanto cada proyecto, como el equipo.
+In the day–to–day of the studio, we work with weekly objectives coordinating interests and teams. To organize the different teams and projects we work with, we adopt the **Scrum** methodology, making sprint plannings, dailies, and retrospectives to manage both, each project and the team.
 
 ### 1.2 Meetings
 
-A la hora de reunirnos seguimos una metodología ágil. Establecemos objetivos claros y directos para cada reunión, y evitamos en todos los casos establecer comités. Consideramos que lo más valioso es el tiempo y nos tomamos en serio el respetarlo.
+When it comes to meetings, we follow an agile methodology. We establish clear and direct objectives for each meeting, and in all cases, we avoid establishing committees. We consider "time" to be the most valuable thing and we take it seriously.
 
-### 1.3 **Planning semanal**
+### 1.3 Weekly Planning
 
-Reunión semanal en la que se analiza el estado de los proyectos y se fijan los objetivos a alcanzar y tareas a completar durante la semana.
+We have a weekly meeting in which the status of the projects are analyzed and the objectives and tasks needed to be completed are established.
 
-_**Planning**_ **Equipo**
+**Planning Team**
 
-Reunión que se realiza los lunes en la que están presentes todos los miembros del equipo. En la _Planning_ del estudio se analiza el estado de los proyectos que se están realizando. Este análisis incluye:
+A Meeting held on Mondays in which all team members are present. Here we analyze the current state of our active projects. This analysis includes:
 
-* Cómo fue la semana anterior
-* Cómo se presenta la semana que comienza
-* Bloqueos que puedan haber surgido
+* How did we do the previous week?
+* How will we tackle the current week before us?
+* Any roadblocks that may have arisen
 
-_**Planning**_ **Proyecto**
+**Project Planning**
 
-Cada responsable de proyecto tiene una reunión con los miembros del equipo que formen parte de dicho proyecto. En ésta, se deben determinar qué tareas del Backlog se van a completar en el _Sprint_ que comienza, pasando estas de _Backlog_ a _Sprint Backlog._
+Each project leader has a meeting with the team members who are part of the project. In this meeting, it must be determined which tasks on the Backlog are going to be completed in the upcoming Sprint, transferring these from Backlog to Sprint Backlog.
 
 ### 1.4 Geekbot daily meeting
 
-La _daily_ se completa todos los días por todos los miembros del equipo. La _daily_ es una forma de recapitular sobre todo lo que se ha hecho el día anterior, los objetivos para ese día y los posibles bloqueos que se han encontrado.
+The "daily" is completed every day by all team members. The "daily" is a way of summarizing everything that has been done the previous day, the objectives for that day and any possible roadblocks that have arisen.
 
-Para realizarla, utilizamos el bot de Geekbot para Slack:
+To do this, we use the Geekbot bot for Slack:
 
 {% embed url="https://geekbot.io/" caption="" %}
 
-Geekbot nos permite realizar la daily de forma sencilla y asíncrona, mediante 4 preguntas que se envían directamente al canal \#daily del [Slack](https://slack.com) que usamos en el equipo. Te pregunta cómo estás, qué se hizo el día anterior, cuáles son las tareas planteadas a completar en el día y si has encontrado algún bloqueo. Esta forma de hacer la _daily_ nos aporta flexibilidad, ya que:
+Geekbot allows us to complete the "daily" in a simple and asynchronous way, by means of 4 questions that are sent directly to the channel \#daily of our [Slack](https://slack.com) group. It asks you how you are, what was done the day before, what are the tasks set to be completed for the day and if you have found any roadblocks. This way of going about our "daily" gives us flexibility, because:
 
-* Cada miembro del equipo puede elegir en que momento completarla.
-* No es necesaria la presencia de todos los miembros del equipo para llevarse a cabo.
-* Al poder acceder a ella fácilmente en Slack, todos los miembros del equipo tendrán conocimiento de la daily de sus compañeros.
-
-{% hint style="info" %}
-Para asegurarnos que todas las personas del equipo están al tanto y conozcan en qué se está trabajando, se deben leer las _dailies_ del resto de miembros del equipo. Para marcar que se ha leído la _daily_ de un compañero se reacciona con un ✅ al mensaje generado por _Geekbot_ en el canal \#daily.
-{% endhint %}
-
-**Preguntas para completar la** _**daily**_
+* Each member of the team can choose when to complete it.
+* It is not necessary for the whole team to be present to complete it.
+* By being able to access it easily within Slack, all team members will be aware of the dailies of their teammates.
 
 {% hint style="info" %}
-✏️ Estas preguntas las lanza _Geekbot_ automáticamente a la hora que fijemos o al utilizar el comando`report`.
+To ensure that everyone on the team is aware of what is going on, the dailies of the other team members should be read. To mark that you have read the "daily" of a colleague you react with a ✅ to the message generated by Geekbot in the \#daily channel.
 {% endhint %}
 
-Para contestar a las preguntas utilizamos la plantilla que se muestra a continuación que se encuentra a continuación, así se consigue unificar las respuestas de todos los miembros del equipo.
+**Questions to complete the "daily"**
 
-* **¿Qué hiciste ayer?**
+{% hint style="info" %}
+✏️ These questions are launched automatically by Geekbot at the time we set or when using the command`report`.
+{% endhint %}
 
-  _Nombre del proyecto 1_
+To answer the questions, we use the template shown below, in order to unify the answers of all team members.
 
-  ✅ Tarea completada
+* **What did you do yesterday?**
 
-  ➕ Tarea realizada que no estaba contemplada al inicio del día anterior.
+  _Project name 1_
 
-  ❌ Tarea no completada \(Se debe explicar los motivos por los que no se completó, para dar información al resto del equipo\)
+  ✅ Task completed
 
-  ⚙️ Tarea en proceso \(exclusivo para tareas de larga duración que no pueden ser divididas\)
+  ➕ The performed task that was not planned at the beginning of the previous day.
 
-  _Nombre del proyecto 2_
+  ❌ Task not completed \(It should be explained why it was not completed to help inform the rest of the team\)
+
+  ⚙️ A task in progress \(only for long term tasks that cannot be divided up\)
+
+  Project name 2
 
   ✅ ...
 
-* **¿Qué vas a hacer hoy?**
+* **What are you going to do today?**
 
-  _Nombre del proyecto 1_
+  _Project name 1_
 
   * Tarea a realizar
-  * Tarea a realizar
-  * Tarea a realizar
+  * Task to be performed
+  * Task to be performed
 
-    _Nombre del proyecto 2_
+  _Project name 2_
 
   * ...
 
-* **¿Cuándo estará listo?**
+* **When will it be ready?**
 
-  Al tratarse de una _daily_ todas las tareas que se programan para el día deberían ser completadas. Sin embargo, puede haber tareas que requieran más de un día de realización. Esta pregunta nos da la oportunidad de concretar cuando esperamos acabarlas, de forma que el proyecto no quede bloqueado.
+  As it is a "daily," all tasks that are scheduled for that day should be completed. However, there may be tasks that require more than one day to complete. This question gives us the opportunity to specify when we expect to finish them so that the project does not run into any roadblocks.
 
-* **¿Has encontrado algún bloqueo?**
+* **Have you run into any roadblocks?**
 
-  Cuéntale al equipo que bloqueos te encontraste el día anterior y menciona a las personas que te pueden ayudar a solucionarlo.
+  Inform the team about any difficulties you have encountered the day before and contact those who might be able to help you out.
 
 {% hint style="info" %}
-**Recuerda:** para mencionar a una persona el Slack basta con poner el símbolo de arroba \(@\) seguido del nombre de usuario que utiliza esa persona.
+**Remember:** to mention a person in Slack just input the "@" symbol, followed by the username used by that person.
 {% endhint %}
 
-### 1.5 Retrospectivas
+### 1.5 Retrospectives
 
-Las retrospectivas nos sirven para analizar el trabajo realizado, nos ayudan a mejorar potenciando lo que ha ido bien y poniendo foco en lo que ha ido mal para proponer ideas que nos ayuden a solucionarlo.
+Retrospectives help us analyze the work that has been done and they help us get better by strengthening what has gone well and by focusing on what has gone wrong in order to propose ideas that will help us to solve it.
 
-**Retrospectiva Proyecto**
+**Project Retrospective**
 
-Reunión en la que participan todos los miembros de un proyecto. El responsable de cada proyecto es quien debe convocar a todos los miembros que participan en él para para analizar qué ha ido bien, qué ha ido mal y cómo se puede mejorar en el siguiente _sprint_.
+A meeting in which all the members of a project participate. The person responsible for each project is the one who must invite all the members participating in it to analyze what has gone well, what has gone wrong and how the project can be improved in the next sprint.
 
-**Retrospectiva Equipo**
+**Team Retrospective**
 
-Reunión que tiene lugar al final de cada mes para distinguir qué cosas han ido bien para mantenerlas y fomentarlas, qué ha ido mal para poner foco en solucionarlas, y cómo se puede mejorar. En la retrospectiva del equipo estarán presentes todos los miembros del equipo.
+A meeting that takes place at the end of each month to distinguish which things have gone well to maintain and promote them and what went wrong to focus on solving and improving them. All team members will be present at the team retrospective.
 
-## 2. Organización de un proyecto
+## 2. Project management
 
-### 2.1 Líder de proyecto
+### 2.1 Project Leader
 
-Consideramos que tener una persona que lidere un proyecto es muy importante al trabajar con distintos proyectos simultáneamente. Cada uno de nuestros proyectos cuenta con un líder que ayuda a que el proyecto alcance la máxima calidad.
+We believe that having one person lead a project is very important when working on different projects simultaneously. Each of our projects depends on a leader to helps the project reach its fullest potential.
 
-El líder de proyecto supervisa y coordina los objetivos, las tareas a realizar y a los miembros del equipo que participan en el proyecto. Es el responsable último de la producción, coordinación y el trato con el cliente y es quién fija las reuniones con él para mostrarle los avances y mantenerle al día. Su papel es fundamental.
+The project leader's responsibilities lie in supervising and coordinating the objectives, tasks and team members participating in the project. He or she is ultimately responsible for the project, it is coordination, and client affairs and is the one who sets up the meetings with the client to keep them informed on the project's current status. His or her role is fundamental.
 
 ### 2.2 Project management
 
-La organización del proyecto se realiza por parte del equipo, recayendo su gestión sobre el responsable del proyecto. Para coordinar el proyecto y sus tareas, contamos con herramientas como Asana y Notion que nos permiten documentar, organizar y monitorizar cada trabajo.
+The organization of the project is carried out by the team, and its management falls on the project leader. To coordinate the project and its tasks, we have tools such as Asana and Notion that allow us to document, organize and monitor each task.
 
-Asana nos permite visualizar el _roadmap_ y las tareas que hay que realizar de un proyecto, mientras que en Notion está toda la documentación necesaria para que cualquier persona del equipo pueda llevar a cabo las actividades de un proyecto.
+Asana allows us to visualize the roadmap and the tasks of a project, while in Notion one can find all the necessary documentation to carry out the activities of a project.
 
 {% hint style="info" %}
-Puedes conocer más en **i. Herramientas** sobre cómo nos organizamos en las páginas de [Notion](tools/notion.md) y [Asana](tools/asana.md).
+You can learn more about how we organize ourselves in [Notion](tools/notion.md) and [Asana](tools/asana.md) in our section i. Tools.
 {% endhint %}
 
-Aunque existe un grado de jerarquía en el estudio, intentamos que sea más o menos difusa. Todos los implicados en un proyecto tratan directamente con el cliente en mayor o menor medida. La transparencia y la transversalidad y horizontalidad son dos de las claves de nuestro enfoque.
+Although there is a level of hierarchy in the studio, we try not to make it very apparent. Everyone involved in a project deals directly with the client to a greater or lesser extent. Transparency and horizontal transversality are two of the keys to our approach.
 
 ### 2.3 Gestión de tiempos
 
-Al inicio de cada proyecto, se realiza un _Kick-off meeting_ donde participa el equipo del cliente, el responsable del proyecto y las personas de mendesaltaren que trabajarán en él. En esta reunión inicial se establece el objetivo de negocio que se quiere alcanzar y qué es lo que se espera del proyecto. También se comparte un _roadmap_ claro.
+At the beginning of each project, a Kick-off meeting is held with the client's team, the person in charge of the project and the mendesaltaren members who will be participating in the project. This initial meeting establishes the business objectives to be achieved and what is expected of each member of the project. A clear roadmap is also shared.
 
-Al trabajar con _sprints_ semanales, lo normal es ir compartiendo con el cliente semana a semana nuestros avances. Esta periodicidad podrá variar en función de las necesidades del cliente y el proyecto. Es muy importante definir claramente los objetivos de una reunión o presentación, así como ir al grano. De esta forma evitaremos el diseño por comité y hacer perder el tiempo a compañeros y _stakeholders_.
+When working with weekly sprints, it is normal to share our progress with the client on a week by week basis. This frequency may vary depending on the needs of the client and the project. It is very important to clearly define the objectives of a meeting or presentation, as well as making sure we stay on task. In this way, we will avoid ”Design by Committee” and waste the time of colleagues and stakeholders.
 
-Habitualmente, tras cada revisión con el cliente es el momento de aplicar el _feedback_ que haya surgido.
+Usually, after each review with the client, it is time to take the feedback received and implement it.
 
-## 3. Organización de archivos
+## 3. Files management
 
-### 3.1 Introducción
+### 3.1 Introduction
 
-Dropbox es la herramienta que utilizamos en el equipo para gestionar los archivos, es el lugar donde se encuentran los entregables, los archivos y los recursos necesarios para llevar a cabo un proyecto.
+Dropbox is the tool we use to manage a projects' files, deliverables, and resources needed to carry out a project.
 
-La estructura básica presente en Dropbox es la siguiente:
+The basic structure we use in Dropbox is the following:
 
-* **Estudio**
+* **Studio**  In Studio you will find all the resources related to our studio.
+* **Projects** Projects contain all active and completed projects that have been carried out by the studio.
+* **Resources** Resources contain a broad collection of resources that can be useful in the design phase of projects, but they are not focused on any project in particular.
 
-  En Estudio se encuentran todos los recursos relacionados con el estudio.
+### 3.2 Projects and folder structure
 
-* **Proyectos**
-
-  Proyectos contiene todos los proyectos activos y completados realizados por el estudio.
-
-* **Recursos**
-
-  Recursos contiene todos los recursos que pueden ser de utilidad en el diseño de los proyectos, pero no están enfocados a ninguno en concreto.
-
-### 3.2 Proyectos y estructura de carpetas
-
-Documentamos cada proyecto en una carpeta distinta. Todos los proyectos siguen la misma nomenclatura para que puedan ser ubicados fácilmente:
+We document each project in a different folder. All projects follow the same naming system so they can be easily located:
 
 ```text
-[[id]_[NOMBRE DEL PROYECTO]
+[[id]_[NAME OF PROJECT]
 ```
 
 * **id**
 
-  Numeración del proyecto. Los ids están formados por dos dígitos, empezando en el 00. Los ids se generan a partir de números consecutivos, que se establecen según el orden en el que se iniciaron los proyectos, de tal forma que los proyectos más antiguos tienen un número menor y los más recientes un número más alto.
-
+  Project numbering. The ids are generated from consecutive numbers, which are established according to the order in which the projects were started so that the oldest projects have a smaller number and the most recent have higher numbers.   
   00 01 02 03 04 05 06 07 08 09 10 11 ...
 
-* **Nombre del Proyecto**
+* **Project Name**
 
-  El nombre del proyecto se corresponde normalmente con el nombre de la empresa. Siempre los ponemos en mayúscula y si es un nombre compuesto usamos espacios para separar las palabras.
+  The name of the project normally corresponds to the name of the company. We always capitalize them and if it is a compound name we use spaces to separate the words.
 
-Por ejemplo:
+For example:
 
 ```text
 - 17_SEAT
@@ -204,85 +195,63 @@ Por ejemplo:
 ```
 
 {% hint style="info" %}
-👆🏻 Esta nomenclatura nos facilita que los proyectos estén ordenados por la fecha en la que fueron creados.
+👆🏻 This naming system allows us to order projects by the date they were created.
 {% endhint %}
 
-**Todos los proyectos cuentan con la misma estructura y organización:**
+
+
+**All projects have the same structure and organization:**
 
 ```text
-——— 00_assets
-    ——— _archive
-    ——— brand-assets
-    ——— documents
-        ——— icon-set
-    ——— images
-    ——— typographies
+--- 00_assets
+    --- _archive
+    --- brand-assets
+    --- documents
+        --- icon-set
+    --- images
+    --- typographies
 
-——— 01_product-definition
-    ——— _archive
-    ——— _briefing
-    ——— _research
+--- 01_product-definition
+    --- _archive
+    --- _briefing
+    --- _research
 
-——— 02_product-design
-    ——— _archive
-    ——— _branding
-    ——— _UX
-    ——— _UI
-    ——— _Prototype
-    ——— _design-system
+--- 02_product-design
+    --- _archive
+    --- _branding
+    --- _UX
+    --- _UI
+    --- _prototype
+    --- _design-system
 
-——— 03_output
-    ——— _deliverables
-    ——— _case-study
+--- 03_output
+    --- _deliverables
+    --- _case-study
 ```
 
-* **00\_assets**
-
-  Elementos relativos a la marca.
-
-* **01\_product-definition**
-
-  Documentos y archivos relacionados con la exploración y definición del producto.
-
-* **02\_product-design**
-
-  Archivos relacionados con el diseño de producto. Aquí deben estar todos los documentos y archivos desde el UX \(como A_rquitectura de Información_, _User Personas_ y los _Wireframes_\) hasta su interfaz.
-
-* **03\_output**
-
-  Debe contener todos los archivos y documentos que estén listos para entregar al cliente. Todo lo que se le entrega al cliente debe estar en esta carpeta. Estos pueden ser PDFs, explicaciones, archivos de Sketch, vídeos, imágenes, etc.
+* **00\_assets**  Elements relating to the brand.
+* **01\_product-definition**  Documentation related to the exploration and definition of the product.
+* **02\_product-design** Files related to product design. Here one should find all the files and documentation for the UX \(such as Information Architecture, User Personas, and Wireframes\) to its visual design assets.
+* **03\_output** It must contain all the files and documentation that is ready to be delivered to the client. Everything that has been delivered to the customer must be in this folder. These can be PDFs, instructions, Sketch files, videos, images, etc.
 
 {% hint style="info" %}
-✏️ Esta estructura sirve de base para empezar a trabajar. La organización debe adaptarse a la lógica del proyecto. Si una carpeta corresponde a un servicio que no se va a realizar, debería borrarse y adaptar el resto al nuevo orden.
+✏️ This structure serves as the basis for starting a project. The organization must adapt to the logic of the project. If a folder corresponds to a service that is not going to be performed, it should be deleted and the rest should be adapted to the new structure.
 {% endhint %}
 
-### 3.3 Nomenclatura
+### 3.3 Naming systems
 
-Para tener los archivos organizados y saber fácilmente qué contienen, los nombramos haciendo referencia a la ruta de su directorio. Este es es el esqueleto de nuestra nomenclatura de archivos:
+In order to have the files organized and to easily know its contents, we name them by making a reference to the path of their directory. This is the skeleton of our file naming system:
 
 ```text
-[id Proyecto][Nombre del Proyecto][id archivo][tipo de archivo][Plataforma]
+[id Project][Project Name][id file][file type][Platform]
 ```
 
-* **id Proyecto + Nombre proyecto**
+* **id Project + Project name**  To identify the folder and file path quickly.
+* **id file** Corresponds to the id of the subfolder that contains it.  For example: 00\_for assets, 01\_product-definition, 02\_product-design, 03\_output. We forget the name of the subfolder and use only the id.
+* **File type** This corresponds with the specific phase in which the file is being carried out on: UI, UX, Design System, Branding, Prototype.
+* **Platform** This corresponds to the platform for which it is being designed for: web \(Desktop or Mobile\) or app \(iOS or Android\).
 
-  Para identificar la carpeta y la ruta del archivo rápidamente.
-
-* **id archivo**
-
-  Corresponde con el id de la subcarpeta que lo contiene.
-
-  Puede ser: 00 para assets, 01 01\_product-definition, 02\_product-design, 03\_output. Obviamos el nombre de la subcarpeta y usamos solo el id.
-
-* **Tipo de archivo.**
-
-  Corresponde con la fase que se lleva a cabo en el archivo: _UI_, _UX_, _Design System_, _Branding_, _Prototype_.
-
-* **Plataforma.**
-
-  Corresponde con la plataforma para la cual se está diseñando: web \(Desktop o Mobile\) o app \(iOS o Android\).
-
-Por ejemplo:
+For example:
 
 ```text
 - 17_SEAT_02_UI_Web
@@ -291,6 +260,6 @@ Por ejemplo:
 ```
 
 {% hint style="info" %}
-Esta nomenclatura se puede trasladar a las distintas herramientas que utilizamos en mendesaltaren, la 💡 idea es que los archivos de todas las herramientas mantengan el mismo nombre y jerarquía para que cualquier persona del equipo pueda encontrarlo fácilmente.
+This naming system can be applied to the different tools we use in mendesaltaren, with the idea 💡 that the files for each tool used keeps the same naming and hierarchy so that anyone on the team can easily find it.
 {% endhint %}
 
