@@ -1,124 +1,122 @@
 # 3. Branding
 
-El _branding_ es, en la mayoría de los casos, **inherente al diseño de producto**. Sin embargo, su proceso de definición, se solapa en ciertos momentos con el de creación del producto. En ocasiones incluso es un proceso que transcurre en paralelo. Por ello, hemos querido dedicarle un apartado propio en el que cubrimos de manera independiente los pasos que creemos que se deben de seguir para llegar a buen puerto.
+Branding is, in most cases, **embodied in product design.** However, the process of the definition stage overlaps and even runs simultaneously with the creation of the product. Sometimes it even runs simultaneously to the production process. Therefore, we wanted to dedicate a separate section in which we cover in an independent manner the steps that should be followed to create a successful branding.
 
-Puesto que cada proyecto tiene unas características, en función de las necesidades del cliente, los tres escenarios que se pueden distinguir son:
+Since each project has its own peculiarities, depending on the customer's needs, the three scenarios that can be highlighted are:
 
-* El cliente cuenta con un _branding_ depurado.
-* El cliente necesita un rediseño.
-* El cliente necesita un _branding_ nuevo.
+* The client already has a defined branding 
+* The client needs a redesign 
+* The client needs a new branding
 
-## **El cliente cuenta con un** _**branding**_ **depurado**
+## **The client already has a defined branding**
 
-Este cliente tiene una marca consolidada. Lo único que hay que hacer es adaptar los nuevos componentes que aparezcan en el proyecto a su lenguaje gráfico.
+This client already has a defined branding. The only thing to do is to adopt the new components that appear in the project to its visual language.
 
-## **El cliente necesita un rediseño**
+## **The client needs a redesign**
 
-Al enfrentarnos a un rediseño, el proceso será igual al de realizar un _branding_ desde cero, con la particularidad de que tendremos que identificar los problemas que arrastra la marca. En el siguiente apartado definiremos todo el proceso.
+When facing a redesign, the process will be the same as doing a branding from scratch, with the particularity that we will have to identify the problems that hinder the brand. In the next section, we will define the whole process.
 
-## **El cliente necesita un** _**branding**_ **nuevo**
+## **The client needs a new branding**
 
-Este escenario es el más completo, por lo que es el que vamos a desarrollar. Requiere de una visión general del proyecto y consta de 3 fases.
+This scenario is the most complete, so it is the one we're going to develop. It requires an overview of the project and consists of 3 phases.
 
-### 1. Toma de contacto
+### 1. Research and strategy
 
-Investigar al cliente, su producto, sus principios y sus valores para entender su marca. Detectar qué puede necesitar y fijar una estrategia.
+Research the client, its product, its principles, and values to understand its brand. Detect what you may need and set a strategy. With everything gathered in this stage, a proposal will be made to the client.
 
-Este punto es especialmente importante. **Sentar unas buenas bases** establece una relación sana con el cliente y ayuda a tomar decisiones con fundamento y de forma ágil.
+This point is especially crucial. **Laying a good foundation** establishes a healthy relationship with the client and helps to arrive at informed decisions in an agile manner. These are the steps to follow:
 
-**1.1. Antes de la primera reunión:**
+**1.1. Before the first meeting:**
 
-Investiga al cliente y sus perfiles internos. Genera una idea previa de lo que va a querer/necesitar en base a los _insights_ adquiridos de los **problemas** identificados.
+Research the client's internal profiles. Generate a preliminary idea of what he will want/need based on the insights acquired from any **problems** identified.
 
-**1.2. Durante la reunión:**
+**1.2. During the meeting:**
 
-* Escucha activamente en base a la investigación realizada.
-* Sé proactivo. Propón vías para saber cómo respira el cliente.
-* Crea un ambiente distendido y de entendimiento. Somos su aliado.
-* Genera confianza: explica el proceso al cliente hará que todo salga bien.
+* Actively listen based on your research.
+* Be proactive. Get inside the mind of the client. 
+* Create a relaxed and understanding environment. We are his ally.
+* Build trust: explaining the process to the client will make everything go smoothly.
 
-**1.3. Tras la reunión:**
+**1.3. After the meeting:**
 
-* Gestiona las expectativas del cliente.
-* Checklist de necesidades. Debes mandar un mail al cliente para que valide las necesidades establecidas.
+* Manage customer expectations.
+* Checklist of requirements. Send an email to the client to validate the established needs.
 
-### 2. Investigación \_\_y plataforma de marca
+### 2. Research and brand platform
 
-Tras la toma de contacto, es momento de **investigar sobre el mercado** de nuestro cliente con la intención de identificar competidores y referentes. Por otra parte, es importante que en este punto hagamos con él una **reflexión sobre su marca**, su propuesta de valor, y qué mensaje quiere transmitir. Para esto último, le facilitamos un documento que le guíe en ese proceso de reflexión: el [_Brand Strategy Brief_](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-V2-58f760341b144236baa58303c11e2e83).
+After this first contact, we should **research our client’s market** in order to identify competitors and references. In this step, it’s quite important **make the client think about his brand**, his value proposal and the message he want to translate convey. To do that it, we ask him to complete a document: the [Brand Strategy Brief.](https://www.notion.so/Brand-Strategy-Brief-ejercicio-arquetipos-58f760341b144236baa58303c11e2e83)
 
-Con todo lo recogido en esta etapa se debe realizar una propuesta al cliente. Estos son los pasos a seguir:
+With everything gathered in this stage, a proposal will be made to the client. These are the steps to follow:
 
 **2.1. Benchmark.**
 
-* Busca referentes que ofrezcan servicios similares a los del cliente y analízalos para extraer conclusiones sobre buenas prácticas y patrones de la industria a la que pertenece.
+* Search competitors that offer similar services. Analyze them to draw conclusions about best practices and stablished patterns from his industry.
 
-**2.2. El cliente completa el** _**Brand Strategy Brief.**_
+**2.2. The client fills out the Brand Strategy Brief.**
 
-* Facilítale acceso a una copia en blanco del documento a través de Notion.
-* Explícale la dinámica y el objetivo de este ejercicio. Insiste en la importancia del mismo para que podamos obtener información de calidad a través de él.
+* Give him access to the document in Notion.
+* Explain how does it work and the purpose of this exercise. Try to make him understand how important this exercise is in order to obtain high quality information from him.
 
-**2.3. Realizamos una lectura crítica del** _**Brand Strategy Brief**_ **con el cliente.**
+**2.3. Do an in-depth analysis of the Brand Strategy Brief with the client.**
 
-* Revisa el ejercicio con el cliente. De este modo podrás entender en toda su dimensión las respuestas que ha dado. Es interesante identificar aquellos puntos que no entendió o le causaron dudas para, de forma colaborativa, dar respuesta a esas preguntas.
+* Analyze this filled document with the client. Doing this, you will be able to understand the client answers and reasons. Try to identify those questions that he didn’t understood to answer them in a collaborative way.
 
-**2.4. Primera presentación/puesta en común.**
+**2.4. First presentation.**
 
-* Genera una presentación con las claves de toda esta fase. Incluye: punto de partida, necesidades, piezas a realizar, plataforma de marca y _benchmark_.
-* Haz un resumen y llega a un acuerdo consensuado con el cliente.
+* Generate a presentation with the key ideas of this entire phase. Including: starting point, project needs, deliverables to be created, brand platform and the benchmark.
+* Create a summary and reach a consensual agreement with the client.
 
-### 3. Exploración gráfica y concepto
+### 3. Graphic exploration and concept creation
 
-Buscar referentes que ayuden a traducir toda la información y conocimiento adquirido a un **lenguaje gráfico**. En esta etapa se debe invertir todo el tiempo que sea necesario. Para empezar a diseñar se deben tener las ideas claras y para llegar a ello es necesario investigar y buscar referencias.
+Search for references that help translate all the information and knowledge acquired into a **visual language.** This stage should be put in as much time as necessary. To begin to design you must have your ideas clear and to get there you need to do some research and look for references.
 
-**3.1. Investigación:**
+**3.1. Research:**
 
-* Busca referencias y prepara un _moodboard_.
-* Piensa en 2 conceptos globales que aglutinen todo lo que la marca necesite.
-* Piensa en cómo materializar el concepto gráfica y narrativamente.
-* Piensa en titulares y _copies_ que expresen los valores que transmite la marca. Ten en cuenta su tono y personalidad.
+* Search for references and prepare a moodboard. 
+* Think of 2 global concepts that bring together everything the brand needs. 
+* Think about how to materialize the concept graphically and narratively. 
+* Think of the headlines and copywriting that express the values conveyed by the brand.
+* Consider the tone of language and personality.
 
-**3.2. Segunda presentación / puesta en común.**
+**3.2. Second presentation.**
 
-* Llega a un consenso de referencias gráficas y **conceptuales**.
+* Reach a mutual agreement on the visuals and **conceptual references.**
 
-**3.3. Producción gráfica. Crea 1 o 2 líneas gráficas en base a:**
+**3.3. Visual design. Create 1 or 2 graphical guidelines based on a:** 
 
-* Identificador primario.
-* Identificadores secundarios.
-* Paleta cromática.
-* Tipografía principal y auxiliar.
-* Crea aplicaciones de marca para testar el funcionamiento de la línea gráfica.
+* Primary identifier.
+* Secondary identifiers.
+* Chromatic palette.
+* Main and auxiliary typography.
+* Create brand applications to test the feasibility of the visual graphics line.
+* Basic stationery, digital, conceptual, communication pieces, etc.
 
-  Papelería básica, piezas digitales, conceptuales, de comunicación, etc.
+**3.4. Third presentation.**
 
-**3.4. Tercera presentación / puesta en común.**
-
-* Presenta la identidad con un resumen de las fases anteriores.
-* El cliente debe seleccionar la vía elegida.
+* Present the identity with a summary of the previous phases.
+* The customer must select the chosen direction for branding.
 
 ### 4. Producción de AAFF y _brandbook_
 
-Tener unos entregables bien estructurados y documentados ayuda al cliente a manejar su marca de forma autónoma una vez finalice el proyecto. Durante esta etapa, es necesario realizar:
+Have well-structured and documented deliverables that help the client manage their brand by themselves once the project is completed. During this stage, it is necessary to perform:
 
-**4.1.** _**Brandbook**_**.**
+**4.1.Brand book**
 
-Prepara un documento que explique detalladamente qué elementos componen la marca, cómo deben usarse y en qué contextos. Al menos debe constar de:
+Prepare a document that explains in detail what elements make up the brand, how they should be used and in what contexts they should be used. It must at least consist of:
 
-* Introducción e índice.
-* Identidad: logotipo, tipografía y paleta de color.
-* Uso de marca: espacio de seguridad, tamaños mínimos, uso del color, uso de las fotografía, recursos visuales, etc.
-* Elementos de marca tales como: papelería, pegatinas, ilustraciones, etc.
-* Aplicaciones _online_: firmas de email, redes sociales, _landing_, etc.
+* Introduction and table of contents. I
+* dentity: logo, typography and color palette. 
+* Brand usage: size and proportions, use of color, use of photography, visual resources, etc.
+* Brand elements such as: stationery, stickers, illustrations, etc. 
+* Online applications: email signatures, social media, landing, etc.
 
-**4.2. Producción**
+**4.2. Production**
 
-* Realiza todos los materiales acordados con el cliente.
+* Create all the materials agreed upon with the client.
+* For example, you will have to export the logo in all the formats that may be required \(AI, SVG, EPS, PNG, JPG, PDF\).
+* Prepare materials for printing, if required by the project.
 
-  Por ejemplo, tendrás que exportar el logotipo en sus diferentes versiones en todos los formatos que puedan ser requeridos \(AI, SVG, EPS, PNG, JPG, PDF\).
+**4.3. Final delivery.**
 
-* Prepara los materiales para imprenta, si el proyecto los requiere.
-
-**4.3. Entrega final.**
-
-* Agrupa y estructura en carpetas todos los archivos producidos y guarda el empaquetado en la carpeta _**04\_deliverables**_ del proyecto correspondiente en Dropbox.
+* Group and structure folders for all the created files and save the packaged content in the folder _**04\_deliverables**_ of the corresponding project in Dropbox.
 

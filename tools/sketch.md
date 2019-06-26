@@ -2,191 +2,192 @@
 
 ## Sketch
 
-Sketch es la herramienta principal del estudio. Sketch forma parte del día a día del estudio, con la cual se diseña en la mayoría de los proyectos.
+Sketch is the studio's main tool. Sketch is a part of our day-to-day workflow, and with which we design most of our projects.
 
-En este apartado se detalla cómo utilizamos Sketch, la organización que seguimos y los plugins que utilizamos.
+This section details how we use Sketch, the way we organize it, and the plugins we use.
 
-## 1. Organización
+## 1. Organization
 
-La organización básica de nuestros archivos de Sketch se basa en páginas, _artboards_, símbolos y estilos compartidos.
+The basic organization of our Sketch files is based on pages, artboards, symbols, and shared styles.
 
-### 1.1 Páginas
+### 1.1 Pages
 
-En nuestros archivos de Sketch se pueden encontrar tres tipos de páginas, en función de su contenido y del estado de este.
+In our Sketch files, you can find three types of pages, depending on their content and the status of the content.
 
-**Páginas en proceso 🔩**
+**Pages in progress ⚙️**
 
-Las páginas en proceso son sobre las que se está trabajando. En estas se itera sobre un mismo _artboard_ o elemento.
+The pages in progress are the ones you are currently working on. These are iterated on within the same artboard or element.
 
-Consideramos importante diferenciar las páginas en las cuales no hay diseño acabado porque se está trabajando sobre ellas. Son páginas en las cuales el contenido no tiene que ser perfecto.
+It is important for us to identify pages that are not finished because we are still working on them. These are pages in which the content does not have to be perfect.
 
-**Páginas** _**master**_ **✅**
+**Master pages** **✅**
 
-Las páginas _master_ contienen el contenido acabado. El contenido de esta página debe estar perfecto, contar con estilos aplicados, estar formadas en base a componentes y respetar los espaciados definidos.
+The master pages contain the finished content. The content of this page must be perfect, have implemented styles, be made up of components and respect the defined spacing.
 
-**Página de símbolos \(**_**Symbols**_**\)**
+**Symbols page \(Symbols\)**
 
-En la mayoría de nuestros proyectos, esta página **únicamente aparece cuando el archivo se trate de una librería,** la cual contiene sistema de diseño de nuestro producto.
+In most of our projects, **this page only appears when the file is a library**, which contains the design system of our product.
 
-![Nomenclatura que usamos en las p&#xE1;ginas de Sketch](../.gitbook/assets/sketch-pages-nomenclature.jpg)
+
+
+![The naming system we use in Sketch&apos;s pages](../.gitbook/assets/sketch-pages-nomenclature.jpg)
 
 {% hint style="info" %}
-Esta es nuestra organización, no tiene porqué ser siempre así, pero esta es la que nos ayuda a nosotros a resolver conflictos sobre que páginas están listas y sobre cuales se está trabajando.
+This is our way of organizing Sketch, but it doesn't always have to be like this. This is our way of resolving conflicts about which pages are ready and which are being worked on.
 {% endhint %}
 
-Para reflejar estos tres tipos de páginas y mantener los archivos de Sketch consistentes en todos los proyectos definimos que todas las páginas deben contar con un identificador visual, un identificador numerico y un nombre descriptivo de su contenido.
+In order to reflect these three types of pages and keep Sketch files consistent within all projects, we require that all pages have a visual identifier, a numerical identifier, and a descriptive name for their content.
 
-Siendo su nomenclatura:
+Following the nomenclature:
 
 ```text
-[Emoji] [nombre página]
+[Emoji] [Page id] [Page name]
 ```
 
-* Emoji: utilizamos ✅ para páginas master y ⚙ para páginas en proceso.
+* Emoji: we use ✅ for master pages and ⚙️ for pages in progress.
+* Page id: Are an incremental numerical identification with a 0 \(zero\) as a prefix.
 
 Un ejemplo sería:
 
-* ✅ Account
-* ✅ Catalog
-* ⚙️ Profile
+* ✅ 02 Account
+* ✅ 03 Catalog
+* ⚙️ 04 Profile
 
 ### 1.2 Artboard
 
-Nosotros agrupamos los _artboards_ en flujos o historias de usuario. Cada fila representa un posible flujo de la aplicación o de la web que se esté diseñando. Al principio de cada fila existe un _artboard_ que contiene el nombre y una descripción del flujo que representan los _artboards_ de dicha fila.
+We group artboards into user flows or user stories. Each row represents a possible path for the application or web being designed. At the beginning of each row, there is an artboard containing the name and a description of the user flow being represented.
 
-Para nombrar los artboards utilizamos un identificador, que se corresponde con el de la página, y un número que se compone con el número de fila y el número de vista.
+To name the artboards we use an ID, which corresponds to that particular page, and a number that consists of the row number and the screen number.
 
 ```text
-[id]_[numero fila][número vista]
+[id]_[row number][screen number]
 ```
 
-* El id hace referencia al id de la página
+* The id refers to the id of the page
 
-  ✏️ Si la página es 01 Account → id página: 01
+  ✏️ If the page is 01 Account → id page: 01
 
-* El número de fila hace referencia al número de flujo en el que estemos situados
+* The row number refers to the user flow number in which we find ourselves.
 
-Un ejemplo sería:
+An example would be:
 
-Primer flujo → número fila: 1
+First user flow → row number: 1   
+Second user flow → row number: 2  
+Third user flow → row number: 3
 
-Segundo flujo → número fila: 2
+* The screen number is incremental from left to right.
 
-Tercer flujo → número fila: 3
+  ✏️ If 01 02 03 04 05 06 07 08 09 10 11 12
 
-* El número de vista será incremental de izquierda a derecha.
+An example would be:
 
-  ✏️ Si 01 02 03 04 05 06 07 08 09 10 11 12
-
-Un ejemplo sería:
-
-Para los flujos en la página en 01 Account:
+For the user flows on page 01 Account:
 
 * 01\_100 01\_101 01\_102 01\_103
 * 01\_200 01\_201 01\_202 01\_203 01\_204
 * 01\_300 01\_301 01\_302 01\_303
 
-### 1.3 Símbolos
+### 1.3 Symbols
 
-Utilizamos símbolos para optimizar y automatizar trabajo, los símbolos nos facilita el cambio en múltiples componentes simultáneamente.
+We use symbols to optimize and automate our work. Symbols make it easier for us to change multiple components at the same time.
 
-La raíz de los símbolos en Sketch está situada en una Librería de Sketch, vinculada archivo de Sketch en el que estamos trabajando. El uso de librerías nos permite que todos los archivos de Sketch de un mismo proyecto compartan componentes y evitar duplicidades que nos lleven al error.
+The symbols in Sketch are located in a Sketch Library, a linked Sketch file we're working on. The use of libraries allows all Sketch files of a project to share components, thus avoiding duplicates that lead to an error.
 
 {% hint style="info" %}
-✏️ Para conocer más sobre como trabajamos con símbolos y componentes puedes leer **4. Sistemas de diseño**.
+✏️ To learn more about how we work with symbols and components you can read [**4. Design Systems.**](../design-systems.md)\*\*\*\*
 {% endhint %}
 
-### 1.4 Estilos compartidos
+### 1.4 Shared Styles
 
-Trabajamos con dos tipos de estilos compartidos, estilos de texto y estilos de capa.
+We work with two types of shared styles, text styles and layer styles.
 
-Normalmente estos van a residir en la librería en la cual se encuentra el sistema de diseño de nuestro proyecto, y se aplicarán en el archivo en el que estemos trabajando.
+Normally these reside in the library where the design system of our project is located, and will be applied to the file we are working on.
 
-Los estilos, como los símbolos y componentes, nos ayudan a evitar inconsistencias y duplicidades.
+Styles, such as symbols and components, help us avoid inconsistencies and duplicities.
 
-**Estilos de capa**
+**Layer Styles**
 
-Entre los estilos de capa podemos diferenciamos entre color, opacidad y sombras.
+The layer styles can be differentiated between color, opacity and shadows.
 
 * Color
 
-  Los estilos de texto deben coincidir con la paleta de colores del producto. Estos los creamos tanto en color fill como en outline.
+  Text styles must match the product's color palette. We create these in both color fills and outline.
 
-* Opacidad \(_Opacity_\)
+* Opacity
 
-  Nosotros aplicamos las opacidades al grupo contenedor del elemento o elementos que se quiere que tengan una opacidad determinada. Así, controlamos que opacidades se utilizan en el proyecto. Eso nos permite actualizar estilos de capa y texto sin perder las diferentes opacidades que tengan las instancias de dicho estilo.
+  We apply opacity to the container group of an element or elements that we want to give a certain opacity. Thus, we control which opacities are used in the project. This allows us to update layer and text styles without losing the different opacities of the said style instances.
 
-* Sombras \(_Shadows_\)
+* Shadows
 
-**Estilos de texto**
+**Text Styles**
 
-En todos nuestros archivos, los textos tienen que tener un estilo de texto asignado. Esto nos ayuda a mantener la consistencia en el archivo y en el producto.
+In all our files, texts have to have an assigned text style. This helps us to maintain consistency in the file and in the product.
 
 ## 2. Sketch plugins
 
-A continuación se detallan 5 plugins de Sketch que nos facilitan el día a día en trabajando con la herramienta 🚀.
+The following are 5 Sketch plugins that help us efficiently work with Sketch 🚀.
 
 ### 2.1 [**Sketch Runner**](https://sketchrunner.com/)
 
-_Sketch Runner_ nos ayuda a buscar _todoloqueimagines_ dentro de Sketch, aplicar estilos e insertar símbolos.
+Sketch Runner helps us search for everything you can imagine within Sketch, apply styles and insert symbols.
 
-![Captura de pantalla del modal de Sketch Runner](../.gitbook/assets/screenshot-sketch-runner.png)
+![Screenshot of Sketch Runner](../.gitbook/assets/screenshot-sketch-runner.png)
 
-Sketch Runner permite:
+Sketch Runner allows:
 
-* Ejecutar plugins
-* Instalar plugins
-* Ir a cualquier página, artboard, grupo o _layer_ en el documento de Sketch que nos encontramos
-* Insertar símbolos
-* Crear símbolos
-* Crear estilos de texto y estilos de capa
-* Aplicar estilos de texto y estilos de capa
-* Actualizar plugins obsoletos
+* Executing plugins
+* Install plugins
+* Go to any page, artboard, group or layer in the Sketch document we are in. 
+* Inserting Symbols 
+* Create symbols 
+* Create text styles and layer styles 
+* Apply text styles and layer styles 
+* Update outdated plugins
 
 ### 2.2 [**Automate Sketch**](https://github.com/Ashung/Automate-Sketch/)
 
-Algunas de las cosas que puedes hacer con este plugin y que nos hacen el día más fácil son:
+Some of the things you can do with this plugin that make our every day easier are:
 
-* Remplazar fuentes \(_Replace Fonts_\)
-* Importar estilos de una librería  \(_Import Styles from Library_\)
-* Reemplazar símbolos con símbolos de una librería  \(_Replace Symbol with Library Symbol_\)
-* Renombrar instancias de símbolos  \(_Rename Instances_\)
-* Seleccionar capas por estilo de capa o por estilo de texto  \(_Select Layer by Layer / Text Style_\)
-* Redimensionar artboards para que se ajusten a la altura de las capas y grupos que contiene \(_Resize to Fix Height_\)
+* Replace Fonts 
+* Import Styles from Library 
+* Replace Symbol with Library Symbol 
+* Rename instances of symbols 
+* Select Layer by Layer / Text Style 
+* Resize artboards to fit the height of the layers and groups it contains \(Resize to a fixed height\)
 
 ### 2.3 [**Rename It**](https://rodi01.github.io/RenameIt/)
 
-_Rename It_ permite:
+Rename It allows:
 
-* Renombrar capas \(_Rename Selected Layers_\)
-* Renombrar _artboards_ \(_Rename Artboards_\)
-* Remplazar palabras por otras  \(_Find and Replace_\)
+* Rename Layers 
+* Rename artboards 
+* Replace words with others \(Find and Replace\)
 
-Para nosotros es muy útil porque nos permite añadir secuencias de números de forma ascendiente o descendiente de forma automática, lo que nos permite nombrar los _artboards_ fácilmente.
+For us, it is very useful because it allows us to automatically add a sequence of numbers in ascending or descending order, which allows us to name the artboards easily.
 
-![Captura de pantalla de la ventana de Rename It](../.gitbook/assets/screenshot-rename-it.png)
+![Screenshot of the Rename It window](../.gitbook/assets/screenshot-rename-it.png)
 
 ### 2.4 [**Sketch Style Master**](https://github.com/aparajita/sketch-style-master)
 
-Es igual que _Rename It_, pero para estilos de texto. Es realmente útil ya que te deja cambiar el nombre de los estilos de texto y remplazar palabras de estos.
+It's similar to Rename It, but for text styles. It's really useful as it lets you rename text styles and replace their words.
 
-![Captura de pantalla de la ventana de Sketch Style Master](../.gitbook/assets/screenshot-text-style-master.png)
+![Screenshot of Sketch Style Master](../.gitbook/assets/screenshot-text-style-master.png)
 
 ### 2.5 [**Sketch Style Inventory**](https://github.com/getflourish/Sketch-Style-Inventory)
 
-Una de las grandes ventajas de este plugin es poder sacar todos los estilos de texto que existen en el archivo. Al ejecutar el plugin, _Sketch Style Inventory_ crea una página con todos los estilos de texto que haya.
+One of the great advantages of this plugin is being able to extract all the text styles that exist in the file. When you run the plugin, Sketch Style Inventory creates a page with all existing text styles.
 
-![Captura de pantalla del modal de Sketch Style Inventory](../.gitbook/assets/screenshot-style-inventory.png)
+![Screenshot of Sketch Style Inventory](../.gitbook/assets/screenshot-style-inventory.png)
 
-Es realmente útil cuando se necesita cambiar alguna característica de los estilos, ya que de esta forma podemos asegurar que el cambio se ha aplicado a todos los estilos de texto.
+It's really useful when you need to change a feature of a particular style. This way we can ensure that the change has been applied to all text styles.
 
-_Sketch Syle Inventory_ también puede generar todos los colores y símbolos presentes en el archivo de Sketch, incluso exportarlos.
+Sketch Style Inventory can also generate all the colors and symbols present in the Sketch file, and even export them.
 
 ### 2.6 [**Sketch Page Numbers**](https://github.com/getflourish/Sketch-Style-Inventory)
 
-Este plugin permite añadir numeración a los artboards en Sketch de tal forma que estos se numeran según el orden en el que aparecen en el listado de capas \(también pueden numerarse en orden inverso\).
+This plugin allows you to add numbering to artboards in Sketch in such a way that they are numbered according to the order in which they appear in the list of layers \(they can also be numbered in reverse order\).
 
-![Captura de pantalla de la ventana de Sketch Page Numbers](../.gitbook/assets/screenshot-sketch-page-number.png)
+![Screenshot of Sketch Page Numbers](../.gitbook/assets/screenshot-sketch-page-number.png)
 
-Es de gran ayuda sobre todo a la hora de diseñar documentos en Sketch como brandbooks o presentaciones de conceptos.
+It is especially useful when designing Sketch documents such as brand books or concept presentations.
 

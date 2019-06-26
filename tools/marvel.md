@@ -1,48 +1,35 @@
 # Marvel
 
-Utilizamos Marvel para prototipos rápidos. Nos permite testar y compartirlo fácilmente.
+We use Marvel for rapid prototyping. It allows us to test and share our prototypes with ease.
 
 {% hint style="warning" %}
-Para utilizar Marvel directamente desde Sketch es necesario tener instalado [este plugin](https://help.marvelapp.com/hc/en-us/articles/208594489-Sketch).
+To use Marvel directly from Sketch it is necessary to install [this plugin.](https://help.marvelapp.com/hc/en-us/articles/208594489-Sketch)
 {% endhint %}
 
-Para organizar los proyectos en Marvel utilizamos la siguiente nomenclatura:
+To organize projects in Marvel we use the following naming system:
 
 ```text
-[id proyecto][Nombre del proyecto][id archivo][tipo de archivo][Plataforma]_[Variación]
+[Project id][Project name][File id][file type][Platform]_[Variation]
 ```
 
-* El campo de plataforma es opcional. Nos sirve para concretar si el contenido del proyecto corresponde a web \(desktop o mobile\) o a app \(iOS o Android\) .
-* El campo de variación es opcional. Nos sirve para concretar que se va a testar en ese flujo.
+* The platform field is optional. It helps us to determine whether the content of the project pertains to a web project \(desktop or mobile\) or an app \(iOS or Android\).
+* The variation field is optional. It serves to specify that it is going to be tested in a user flow.
 
-Por ejemplo, si se realiza un prototipo para testar a nivel wireframe la navegación de Fastti el nombre debe ser:
+For example, if a prototype is going to be tested at the navigation level, our project Fastti should be named like this:
 
-id proyecto → 18
+Project id → 18   
+Project name → FASTTI   
+File id → 03   
+File Type → UX   
+Platform → Web-Desktop   
+Variation → Navigation  
 
-Nombre del proyecto → FASTTI
-
-id de archivo → 03
-
-Tipo del archivo → UX
-
-Plataforma → Web-Desktop
-
-Variación → Navegacion
-
-Por ejemplo, si se realizase un prototipo para testar la navegación del proyecto Fastti, el nombre quedaría:
-
-* id proyecto → 18
-* Nombre del proyecto → FASTTI
-* id de archivo → 03
-* Tipo del archivo → UX
-* Plataforma → Web-Desktop
-* Navegación → Navegación
 
 ```text
-18_FASTTI_03_UX_Web-Desktop_Navegación
+18_FASTTI_03_UX_Web-Desktop_Navigation
 ```
 
 {% hint style="info" %}
-✏️ Para conocer más sobre como nos organizamos y cual nomenclatura de archivos que seguimos puedes encontrarlo en [**1. Cómo nos organizamos**](../organization.md).
+✏️ To learn more about how our team is organized and how we name our files, please refer to our section on [**1. How we organize ourselves.**](../organization.md)\*\*\*\*
 {% endhint %}
 

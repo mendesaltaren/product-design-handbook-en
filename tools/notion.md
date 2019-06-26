@@ -1,73 +1,56 @@
 # Notion
 
-Notion es la herramienta de documentación que utilizamos en el estudio. En Notion se reflejada tanto la organización interna del equipo como la organización de proyectos. Por ello distinguimos entre dos páginas principales, Team Home y Proyectos.
+Notion is the preferred documentation tool used at our studio. Notion documents both the internal organization of the team and the organization of projects. That is why we divide our site into two main pages, Team Home and Projects.
 
-En Team Home se documenta todo lo relacionado con la gestión de los miembros del equipo y recursos útiles para el día a día del estudio.
+Team Home contains all the documentation related to the management of our team members and other valuable resources for our day-to-day work in the studio.
 
-En la página de Proyectos se recogen tanto los proyectos antiguos como los proyectos que se están llevando a cabo. Esto nos permite tener los proyectos documentados y todos los recursos disponibles necesarios en un proyecto centralizados en un único lugar.
+The Projects page lists both old projects and projects that are being currently being carried out. This allows us to have all our projects and their available resources documented in one place.
 
-## 1. Organización de un proyecto
+## 1. Organization of a project
 
-Todo proyecto es una página, consideramos que es importante que esta siga una plantilla concreta, de forma que todos los proyectos contengan la misma información, y cualquier miembro del equipo pueda acceder fácilmente a ella.
+Every project has its own page. We believe it is important that it follows a specific template so that all projects contain the same information, and any member of the team can easily find what they are looking for.
 
-Nuestros proyectos contienen:
+Our projects contain:
 
-* **Link a Asana**
-
-  En Asana se controlan las tareas y el roadmap del proyecto.
-
-* **Responsables del proyecto**
-
-  Nombre de las personas involucradas y rol que tienen en el proyecto.
-
-* **Deadlines**
-
-  Fecha de inicio y fecha de fin del proyecto.
-
-* **Enlaces importantes**
-
-  El enlace a Dropbox es imprescindible, ya que es donde se encuentran todas las carpetas de los entregables y recursos necesarios para el proyecto.
-
-  Cada proyecto requiere unos enlaces distintos. Lo que intentamos con esto es que todos los enlaces importantes y necesarios para el proyecto están en un mismo lugar, y puedan ser encontrados fácilmente.
-
-* **Goals**
-
-  En este apartado se mostrarán los objetivos del proyecto de forma que todo el equipo conozca la dirección, resultados esperados y objetivo final del proyecto.
+* **A link to Asana**  In Asana you manage the tasks and the project roadmap. 
+* **Project managers**  Names of the people involved and their role in the project. 
+* **Deadlines**  Start date and end date of the project. 
+* **Important links**  The link to Dropbox is essential, as it is where you will find all the folders that contain the deliverables and resources needed for the project.  Each project requires different links. Our objective here to ensure that all the important and necessary links for the project are in one place, and can be easily found. 
+* **Goals** This section will detail the objectives of the project so that the whole team knows its intended direction, expected results and final objective for the project.
 
 {% hint style="info" %}
-✏️ Los objetivos del proyecto se definen con el cliente al inicio del proyecto. Puedes conocer más sobre nuestro proceso en **2. Proceso**.
+✏️ Project objectives are defined with the client at the start of a project. You can learn more about our process at [**2. Process.**](../process.md)\*\*\*\*
 {% endhint %}
 
-* **Servicios**
+* **Services**
 
-  Los servicios de cada proyecto también se acuerdan con el cliente al incio del proceso, en la propuesta. Estos pueden revisarse a lo largo del proyecto, añadiendo nuevos o eliminando existentes, en función del proceso del proyecto.
+  The services of each project are also agreed upon with the client at the beginning of the process, in the proposal. These can be revised throughout the project, adding new ones or removing existing ones, depending on the project's progress.
 
-  Ejemplos de servicios serían:
+  Examples of services would be:
 
   * Branding
-  * Wireframing
-  * UX
-  * UI
-  * Sistema de diseño
-  * Prototipado en bajo nivel
-  * Prototipado detallado de interacción
-  * **Reuniones**
+  * Wireframing 
+  * UX UI 
+  * Design system 
+  * Low-level prototyping 
+  * Detailed prototyping of its interactions 
+  * **Meetings**
 
-  Cada reunión que se realiza a lo largo del proyecto se documenta. Esto nos permite recurrir a ella cuando se crea necesario.
+  Every meeting that takes place throughout the project is documented. This allows us to refer to it when necessary.
 
-  Para llevar a cabo la documentación de una reunión, contamos con una plantilla. En función de como se desarrolle este se puede incluir información adicional a esta información básica.
+  To document a meeting, we have a template. Depending on how the meeting evolves, additional information may be included.
 
 {% hint style="info" %}
-Esta es la plantilla que utilizamos en el estudio para documentar las reuniones
+This is the template we use in the studio to document meetings
 
-[Meeting \[Descripción Breve\]\[Fecha\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
+[Meeting \[Brief description\]\[Date\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
 {% endhint %}
 
-Tener los proyectos siguiendo esta estructura en Notion nos permite tener los proyectos documentados de una forma clara y todos los recursos disponibles necesarios para un proyecto centralizados en un único lugar.
+Having the projects follow this structure in Notion allows us to have the projects documented in a straightforward way with its resources in a centralized location.
 
 {% hint style="info" %}
-Esta es la plantilla que utilizamos en el estudio para documentar cada proyecto
+This is the template we use in the studio to document each project
 
-[\[Nombre Proyecto\]](https://www.notion.so/mendesaltaren/Nombre-Proyecto-8c43290643bd4382bf0cede77d334dc0)
+[\[Project ID\]\_\[Project Name\]](https://www.notion.so/mendesaltaren/Nombre-Proyecto-8c43290643bd4382bf0cede77d334dc0)
 {% endhint %}
 

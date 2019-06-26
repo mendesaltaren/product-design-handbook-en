@@ -1,49 +1,47 @@
 # Figma
 
-Figma nos permite trabajar de forma colaborativa, online y en tiempo real. Además, Figma nos permite realizar todo el proceso que realizamos en Sketch. Figma es una gran alternativa para realizar ejercicios de ideación y definición cuando el equipo no puede estar de forma presencial.
+Figma allows us to work in a collaborative way, online and in real time. In addition, Figma allows us to perform the entire process we use in Sketch. It is a great alternative for performing ideation and definition exercises when the team cannot be present.
 
 {% hint style="info" %}
-El porqué utilizamos más Sketch que Figma es porque con Sketch nuestro proceso está mucho más automatizado gracias a los plugins y más controlado gracias a Abstract.
+The only reason why we use Sketch more than Figma is that with Sketch our process is much more automated thanks to plugins and more controlled versioning thanks to Abstract.
 {% endhint %}
 
-Figma es una gran alternativa para realizar ejercicios de ideación y definición cuando el equipo no puede estar de forma presencial.
+About how do we work in Figma, our process remains the same as in Sketch.
 
-En cuanto a cómo trabajamos con Figma el proceso se mantiene igual que el que realizamos en Sketch.
+## Pages
 
-## Páginas
+Pages In our Figma files three kind of pages can be found, based on their content and current status:
 
-En nuestros archivos de Figma se pueden encontrar tres tipos de páginas, en función de su contenido y del estado de este.
+**Pages in progress** ⚙️
 
-**Páginas en proceso** ⚙️
+The pages in progress are the ones you are currently working on. These are iterated on within the same frame or element.
 
-Las páginas en proceso son sobre las que se está trabajando. En estas se itera sobre un mismo _frame_ o elemento.
+It is important for us to identify pages that are not finished because we are still working on them. These are pages in which the content does not have to be perfect.
 
-Consideramos importante diferenciar las páginas en las cuales no hay diseño acabado porque se está trabajando sobre ellas. Son páginas en las cuales el contenido no tiene que ser perfecto.
+**Master pages** **✅**
 
-**Páginas** _**master**_ **✅**
+The master pages contain the finished content. The content of this page must be perfect, have implemented styles, be made up of components and respect the defined spacing.
 
-Las páginas _master_ contienen el contenido acabado. El contenido de esta página debe estar perfecto, contar con estilos aplicados, estar formadas en base a componentes y respetar los espaciados definidos.
+**Components page**
 
-**Página de componentes \(**_**Components**_**\)**
-
-Donde residen los componentes que componen el sistema de diseño.
+The components that make up the design system are located on this page.
 
 {% hint style="info" %}
-Esta es nuestra organización, no tiene porqué ser siempre así, pero esta es la que nos ayuda a nosotros a resolver conflictos sobre que páginas están listas y sobre cuales se está trabajando.
+This is our way of organizing Figma, but it doesn't always have to be like this. This is our way of resolving conflicts about which pages are ready and which are being worked on.
 {% endhint %}
 
-Para reflejar estos tres tipos de páginas y mantener los archivos de Sketch consistentes en todos los proyectos definimos que todas las páginas deben contar con un identificador visual, un identificador numerico y un nombre descriptivo de su contenido.
+In order to reflect these three types of pages and keep Figma files consistent within all projects, we require that all pages have a visual identifier, a numerical identifier, and a descriptive name for their content. 
 
-Siendo su nomenclatura:
+This is their naming system:
 
 ```text
 [Emoji] [id] [nombre página]
 ```
 
 * Emoji: utilizamos ✅ para páginas master y ⚙️ para páginas en proceso.
-* Los identificadores numéricos serán números incrementales precedidos por un 0.
+* id: Are an incremental numerical identification with a 0 \(zero\) as a prefix.
 
-Un ejemplo sería:
+An example would be:
 
 * ✅ 01 Account
 * ✅ 02 Catalog
@@ -52,35 +50,33 @@ Un ejemplo sería:
 
 ## Frames
 
-Nosotros agrupamos los _frames_ en flujos o historias de usuario. Cada fila representa un posible flujo de la aplicación o de la web que se esté diseñando. Al principio de cada fila existe un _frame_ que contiene el nombre y una descripción del flujo que representan los _frames_ de dicha fila.
+We group frames into user flows or user stories. Each row represents a possible path for the application or web being designed. At the beginning of each row, there is a frame containing the name and a description of the user flow being represented.
 
-Para nombrar los artboards utilizamos un identificador, que se corresponde con el de la página, y un número que se compone con el número de fila y el número de vista.
+To name the frames we use an ID, which corresponds to that particular page, and a number that consists of the row number and the screen number.
 
 ```text
-[id]_[numero fila][número vista]
+[id]_[row number][screen number]
 ```
 
-* El id hace referencia al id de la página
+* The id refers to the id of the page
 
-  ✏️ Si la página es 01 Account → id página: 01
+  ✏️ If the page is 01 Account → id page: 01
 
-* El número de fila hace referencia al número de flujo en el que estemos situados
+* The row number refers to the user flow number in which we find ourselves.
 
-Un ejemplo sería:
+An example would be:
 
-Primer flujo → número fila: 1
+First user flow → row number: 1   
+Second user flow → row number: 2   
+Third user flow → row number: 3
 
-Segundo flujo → número fila: 2
+* The screen number is incremental from left to right.
 
-Tercer flujo → número fila: 3
+  ✏️ If 01 02 03 04 05 06 07 08 09 10 11 12
 
-* El número de vista será incremental de izquierda a derecha.
+An example would be:
 
-  ✏️ Si 01 02 03 04 05 06 07 08 09 10 11 12
-
-Un ejemplo sería:
-
-Para los flujos en la página en 01 Account:
+For the user flows on page 01 Account:
 
 ```text
 01_100 01_101 01_102 01_103
@@ -92,24 +88,24 @@ Para los flujos en la página en 01 Account:
 
 ## Components
 
-Utilizamos componentes para optimizar y automatizar trabajo, ya que nos facilita el cambio en múltiples componentes simultáneamente.
+We use components to optimize and automate our work. Components make it easier for us to change multiple instances of the same element at the same time.
 
-En Figma, los componentes pueden pertenecer al archivo o pertenecer al _Team Library._ El _Team Library_ es el repositorio de componentes compartidos por todas las personas que pertecezcan al equipo. En nuestro caso, la _Team Library_ es compartida por todos los archivos de mendesaltaren.
+In Figma, components can belong to a file or to the Team Library. The Team Library is a collection of components shared by all people belonging to the team. In our case, the Team Library is shared by all the files by mendesaltaren.
 
-Los componentes en Figma no son lo mismo que los símbolos en Sketch. Al utilizar un componente se crea una instancia y no una copia de este. Esto permite que las propiedades de color y texto de los elementos que componen una instancia se pueden cambiar, lo único que no se puede modificar es la posición.
+The components in Figma are not the same as symbols in Sketch. Using a component creates a unique instance and not a copy of it. This allows the color and text properties of the elements that compose an instance to be changed, the only thing that cannot be modified is its position.
 
-## Estilos compartidos
+## Shared styles
 
-**Estilos de color**
+**Color Styles**
 
-Una peculiaridad de Figma con respecto a Sketch es que no tiene estilos de capa como tal, sino que son estilos de color únicamente. Los estilos de color se pueden aplicar tanto en bordes y los rellenos de una capa como en los estilos de texto. Esto, para nosotros tiene dos ventajas claves:
+A unique feature of Figma with regards to Sketch is that it does not have layer styles as such, but they are color styles only. Color styles can be applied to borders and fills in a layer as well as to text styles. This, for us, has two key advantages:
 
-* No tenemos que crear tantos estilos de capa, diferenciando entre cuando es un borde \(_outline_\) y cuando se trata de un relleno \(_fill_\).
-* No tenemos que crear un estilo de texto por cada color que se vaya a utilizar. Creamos unos estilos de texto base y sobre estos aplicamos estilos de color definidos.
+* We don't have to create so many layer styles, differentiating between when it's an outline or when it's a color fill.
+* We don't have to create a text style for every color we use. We create some styles for our base text and on top of these, we apply defined color styles.
 
-**Estilos de texto**
+**Text Styles**
 
-Los estilos de texto también difieren en cuanto a cómo son los estilos de textos en Sketch. En Figma para cada estilo de texto únicamente queda reflejado el tamaño, la altura de caja y el peso. La alineación puede ser modificada.
+Text styles also differ as to how text styles are used in Sketch. In Figma for each style of text, only the size, box height and weight are reflected. The alignment can be modified.
 
-Esto nos permite que cada vez que creamos un estilo de texto, no haya que crear uno distinto para cada alineación \(izquierda, centro y derecha\). Únicamente creamos uno y al utilizarlo lo modificamos.
+This allows us to prevent having to create a different text style for each type of alignment \(left, center and right\). We only have to create one style and when we use it, we can freely modify it.
 

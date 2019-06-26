@@ -1,6 +1,6 @@
-# i. Herramientas
+# i. Tools
 
-En este apartado detallamos las herramientas y ejercicios que utilizamos a lo largo del proceso. Hablamos sobre el fin que tiene cada herramienta y cómo trabajamos con ellas de forma que nos ayudan a mejorar nuestro trabajo día a día.
+In this section we will go over the tools we use and and how we implement them throughout our process. We talk about the purpose of each tool and how we work with them in a way that helps us work smarter every day.
 
 [Abstract](abstract.md)
 

@@ -1,46 +1,46 @@
 # Zeplin
 
-Con Zeplin conseguimos estrechar el gap entre diseño y desarrollo.
+With Zeplin we narrow the gap between design and development.
 
-Para garantizar que lo que está en Zeplin es el diseño final, únicamente subimos los archivos que están en la rama _Master_ del proyecto en Abstract.
+To ensure that what is in Zeplin is the final design, we only upload the files that lie in the Master branch of the project in Abstract.
 
-## 1. Crear un proyecto nuevo en Zeplin
+## 1. Create a new project in Zeplin
 
-Los proyectos en Zeplin se crean de acuerdo a la siguiente nomenclatura para mantener la consistencia entre los nombres de los proyectos en las distintas herramientas.
+Projects in Zeplin are created according to the following naming system in order to keep the consistency between project names throughout the different tools.
 
 ```text
-[id proyecto][Nombre del proyecto][Plataforma]
+[Project id][Project name][Platform]
 ```
 
-* El campo de plataforma es opcional. Nos sirve para concretar si los artboards que contiene dicho proyecto son de web o de app iOS o Android .
+* The platform field is optional. We use it to specify the platform the artboard is going to be being created for: web or app \(iOS or Android\).
 
-Por ejemplo, si crearamos un nuevo proyecto en Zeplin para exportar el diseño de Playtomic Web:
+For example, if we created a new project in Zeplin to export the Playtomic Web design:
 
-* id proyecto → 19
-* Nombre del proyecto → Playtomic
-* Plataforma → Web
+* Project id → 19
+* Project name → Playtomic
+* Platform → Web
 
 ```text
 19_Playtomic_Web
 ```
 
 {% hint style="info" %}
-✏️ Para conocer más sobre como nos organizamos y cual nomenclatura de archivos que seguimos puedes encontrarlo en [**1. Cómo nos organizamos**](../organization.md).
+✏️ To learn more about how our team is organized and how we name our files, please refer to our section on [**1. How we organize ourselves.**](../organization.md)\*\*\*\*
 {% endhint %}
 
-## 2. Preparar Sketch para subir a Zeplin
+## 2. Prepare Sketch files to upload to Zeplin
 
-Marcar elementos necesarios como exportables para desarrollo. Estamos hablando de los assets del proyecto como los iconos o las imágenes.
+Mark required elements as exportable for development. We're talking about project assets like icons or images.
 
-## 3. Exportar los _Artboards_ o _Frames_
+## 3. Export Artboards or Frames
 
-La forma de exportar las vistas dependerá de si trabajamos con Sketch o con Figma.
+How you export the screens will depend on whether you work with Sketch or Figma.
 
 **Sketch**
 
-Si estamos trabajando con Sketch, al descargarnos Zeplin se nos ha descargado un plugin de Sketch, el cual utilizaremos para realizar la exportación.
+If we are working with Sketch, when we download Zeplin for the first time we automatically download its Sketch plugin. We will use this plugin to upload our files to Zeplin.
 
 **Figma**
 
-Para exportar los _Frames_ desde Figma debemos activar Zeplin dentro de Figma y posteriormente utilizar el comando Option+E con los _frames_ que queramos exportar seleccionados. Este comando activará la activación a Zeplin de forma automática.
+To export Frames from Figma we must activate Zeplin inside Figma and then use the Option+E command with the selected frames we want to upload. This command will automatically activate Zeplin.
 

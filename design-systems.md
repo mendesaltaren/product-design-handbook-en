@@ -1,215 +1,194 @@
-# 4. Sistemas de diseño
+# 4. Design Systems
 
-Esta es la herramienta central en torno a la que gira nuestra metodología. Por ello, hemos creído oportuno dedicar un capítulo entero a explicar: **qué entendemos por sistema** de diseño, **qué principios** de diseño nos guían a la hora gestionarlo, y **qué elementos** componen nuestros sistemas a nivel morfológico.
+This is the core tool around which our methodology revolves on. Hence, we thought it best to dedicate an entire chapter to explaining **what we mean by design system,** what **design principles** guide us when managing it, and finally **what elements** make up our systems at a morphological level.
 
-## 1. ¿Qué es un sistema de diseño?
+## 1. What is a design system?
 
-Esta herramienta permite al equipo **establecer patrones** y contar con una serie de elementos que se pueden, y deben, reutilizar para crear funcionalidades. La **modularidad** del sistema es lo que permite crear desde una unidad mínima hasta componentes más complejos. Establece **reglas** que nos ayudan a trabajar en equipo de forma alineada a través de principios.
+This tool allows the team to **establish patterns** and have a series of elements that can, and should, be reused to create functionalities. The **modularity** of the system is what makes it possible to create from a basic unit to more complex components. It establishes **rules** that help us to work as a team in an inline way through a series of principles.
 
-Además, el sistema de diseño refleja el punto de unión entre el equipo de diseño y el de desarrollo. Gracias a él, conseguimos implementar un l**enguaje claro y consistente** a partir del cual crear y evolucionar productos.
+In addition, the design system reflects the point of convergence between the design and development teams. Thanks to it, we are able to **implement a clear and consistent language** from which to create and grow our products.
 
-**Un sistema de diseño podría entenderse como:**
+**A design system could be understood as:**
 
-* Un lenguaje común.
-* Una balanza entre el control estricto y el caos que produce la libertad.
-* Una colección de elementos reutilizables guiados por una documentación clara.
-* Un conjunto de patrones y prácticas que se comparten dentro de un equipo de forma coherente y organizada.
+* A common language.
+* A balance between rigid regulation and the chaos of freedom.
+* A collection of reusable elements guided by clear documentation.
+* A set of patterns and practices that are shared within a team in a coherent and organized manner. Each pattern describes a problem that occurs frequently and defines and proposes a solution for it.
 
-  Cada patrón describe un problema que ocurre con frecuencia y describe y propone una solución para este.
+The design system has to be flexible and stay alive in the long term. A design system is not static, but dynamic. It evolves with the product and its design.
 
-El sistema de diseño tiene que ser flexible y mantenerse vivo a largo plazo. Un sistema de diseño no es estático, sino dinámico. Evoluciona con el producto y su diseño.
+### 1.1 What value does it bring?
 
-### 1.1 ¿Qué valor aporta?
+Using a design system guarantees the **consistency** of our products. This has a positive impact on the user experience and significantly shortens product ideation, development, and production times. On the other hand, design systems are a particularly useful tool for creating digital products that can scale and **grow rapidly in a manageable way.** Last but not least, one value it brings is that it allows you to spend less time thinking about redundant details and more time thinking about the product.
 
-Utilizar un sistema de diseño garantiza la **consistencia** de nuestros productos. Esto repercute de manera positiva en la experiencia del usuario y acorta significativamente los tiempos de ideación, desarrollo y elaboración de productos. Por otra parte, los sistemas de diseño son una herramienta especialmente útil para conseguir crear productos digitales capaces de **escalar y crecer** rápidamente de una forma controlada. Por último, pero no menos importante, un valor que aporta es que permite dedicar menos tiempo a pensar en detalles superfluos y más a pensar en producto.
+Although there are some similarities, the design system is neither a brand manual nor a style guide, nor a substitute for them. You can live with them and each one brings different values. The main difference is that the design system is not a static reference manual that is limited to explaining what the elements should look like. As we have already mentioned, the design system is a living entity that contains a common language, principles, and tools that help build coherent products.
 
-Si bien presenta algunas similitudes, el sistema de diseño no es ni un manual de marca ni una guía de estilos, ni sustituto de los mismos. Puede convivir con ellos y cada uno aporta valores distintos. La principal diferencia, es que el sistema de diseño no es un documento estático de consulta que se limita a explicar cómo debe ser el aspecto de los elementos. Como ya hemos mencionado, el sistema de diseño es una entidad viva que contiene un lenguaje común, principios y herramientas que ayudan a construir productos coherentes.
+## 2. **Principles**
 
-## 2. **Principios**
+When making decisions regarding the management of design systems, we are guided by a set of **principles** that are shared by all team members. Thanks to them we managed to lay the foundations of what we consider a good product. In our opinion, design systems should be:
 
-A la hora de tomar decisiones relacionadas con la gestión de sistemas de diseño, nos guiamos por una serie de **principios** que compartimos todos los miembros del equipo. Gracias a ellos conseguimos sentar las bases de lo que consideramos un buen producto. En nuestra opinión, el diseño de sistemas debe ser:
+* **Systemic**. The visual design uses patterns and reuses elements. This gives consistent cohesion to the product and speeds up the creation and maintenance processes.
+* **Reticular**. The design must use a defined system of proportions, to harmonize and organize the whole.
+* **Rational**. Visual design should be based on logical, well-thought-out decisions.
+* **Aesthetic**. The aesthetic quality of the design has a direct impact on the usefulness and usability of the products.
+* **Understandable**. Our challenge is to make self-explanatory products.
 
-* **Sistémico.** El diseño visual se sirve de patrones y reutiliza elementos. Esto da coherencia y cohesión al producto y agiliza los procesos de creación y mantenimiento.
-* **Reticular.** El diseño debe utilizar un sistema de proporciones definido, para armonizar y organizar el conjunto.
-* **Racional.** El diseño visual se debe basar en decisiones lógicas y razonadas.
-* **Estético.** La calidad estética del diseño repercute directamente en la utilidad y usabilidad de los productos.
-* **Comprensible.** Nuestro reto es realizar productos autoexplicativos.
+These principles also have a clear influence throughout our production process.
 
-Estos principios tienen también una influencia clara a lo largo de nuestro proceso productivo.
+### 2.1 Specific principles
 
-### 2.1 Principios específicos
+Beyond the general rules that serve as a starting point when using a design system, we also provide each rule with a series of **particular principles.** These have the aim of bringing a unique personality to the system. For example, a design system for a public entity could establish impartiality as a principle. Whoever manages this system should stick to this maxim when creating features that do not influence the user's decision making.
 
-Más allá de las reglas generales que nos sirven como premisa a la hora de utilizar un sistema de diseño, también dotamos a cada uno de una serie de **principios particulares**. Estos tienen el fin de proporcionar una personalidad única y propia al sistema. Por ejemplo, un sistema de diseño para una entidad pública podría establecer como principio la imparcialidad. Quien maneje este sistema debería ceñirse a esta máxima a la hora de crear funcionalidades que no influencien la toma de decisiones del usuario.
-
-## 3. **Estilos**
+## 3. **Styles**
 
 ### 3.1 Color
 
-El color es un elemento muy importante de la comunicación visual, por ello, es necesario hacer un **uso inteligente e intencional** del mismo. A la hora de crear sistemas de diseño distinguimos los siguientes tipos de colores: _\*\*_
+Color is a very important element of visual communication, therefore, it is necessary to make **intelligent and deliberate** use of it. When creating design systems we distinguish the following types of colors: \*\*
 
-* **De marca.** Colores normalmente asociados al _branding_, que definen y dan personalidad a la marca del producto_._ La función principal de estos colores es acentuar_._
+* **Branded**. Colors normally associated with branding, which define and give personality to the brand of the product. The main function of these colors is to accentuate.  _All primary colors will be grouped on the primary palette._
+* **Complementary**. Groups of colors rich enough to work when creating applications such as illustrations, photographs or generate background colors.   
+  _All defined secondary colors will be grouped in the secondary palette._
 
-  _Todos los colores primarios se agruparan en la paleta primaria._
-
-* **Complementarios.** Grupos de colores con la riqueza suficiente como para funcionar a la hora de crear aplicaciones tales como ilustraciones, fotografías o generar colores de fondo.
-
-  _Todos los colores secundarios definidos se agruparan en la paleta secundaria._
-
-* **Tipográficos.** Como mínimo se deben establecer un color oscuro y otro claro para utilizar en la tipografía. También se pueden establecer otros estilos de texto que tengan un color distinto a los mencionados.
-
-  _Todos los colores tipográficos se agruparan en la paleta secundaria, excepto cuando el color del texto corresponda con algún color primario._
+  **Typefaces**. At least one dark color and one light color should be established for use in typography. You can also set other text styles that have a different color to those mentioned.   
+  _All typographic colors will be grouped in the secondary palette, except when the color of the text corresponds to some primary color._
 
 ### 3.2 Layout
 
-Para organizar el espacio **nos servimos de la retícula o \*grid**.\* Esta es una herramienta de trabajo que nos ayuda a distribuir los elementos documentados en el sistema de diseño. Se debe utilizar de forma estructurada para crear los componentes funcionales que articularán el producto.
+To organize the space we use **the grid.** This is a tool that helps us distribute the elements documented in the design system. It must be used in a structured way to create functional components that will articulate the product.
 
-Esta retícula debe definirse matemáticamente proporcionando, así, las reglas que definen el tamaño y la posición de los elementos colocados sobre ella. De este modo, acotamos las posibilidades y agilizamos la toma de decisiones en base a un armonioso sistema de medidas proporcionales. En nuestro caso, establecemos dos **variables que definen la retícula**:
+This grid must be defined mathematically, thus providing the rules that define the size and position of the elements placed on it. In this way, we limit the possibilities and speed up decision-making on the principle of a harmonious system of proportional measures. In our case, we establish two variables that define the grid:
 
-* **Columnas**. Nos ayudan a estructurar el espacio **horizontalmente**. En función de las necesidades del proyecto, suele establecerse un número par de columnas entre 2 y 12. Es necesario establecer: el ancho de cada columna, el espacio entre estas, y el margen del grupo de columnas respecto a los bordes.
-* **Línea base**. Sirve para organizar el espacio **verticalmente**. Debe ser equivalente a la altura del interlineado del cuerpo de texto principal. De este modo, todos los elementos estarán alineados al mismo y transmitiremos sensación de orden.
+* **Columns**. They help us structure space horizontally. Depending on the needs of the project, an even number of columns between 2 and 12 is usually established. It is necessary to establish the width of each column, the gutter, and the margin of the group of columns with respect to the edges.
+* **Baseline**. It is used to organize the space vertically. It must be equivalent to the height of the spacing of the main body of text. In this way, all the elements will be aligned to the same element and transmit a sense of order.
 
-### 3.3 **Regla del 8**
+### 3.3 Rule of 8
 
-Si bien la unidad mínima de una retícula digital es el píxel individual, nuestro sistema se basará en una cuadrícula de **incrementos verticales y horizontales de 8 píxeles**. Debido a la importancia que tiene para nosotros esta forma de organizar la retícula, hemos decidido dedicarle su propio apartado.
+While the minimum unit of a digital grid is the individual pixel, our system will be based on a grid of **vertical and horizontal increments of 8 pixels**. Due to the importance that this way of organizing the grid has for us, we have decided to allocate its own section.
 
-Cada medida de la página debe ser múltiplo de 8. Eso incluye tanto anchos de columna, márgenes, textos, iconos, imágenes, etc. Sólo procediendo rigurosamente de esta manera lograremos que todos los elementos estén perfectamente alineados.
+Each page size must be a multiple of 8. This includes column widths, margins, texts, icons, images, etc. Only by proceeding rigorously in this way can we ensure that all the elements are perfectly aligned.
 
-Al aplicar la regla del 8 a la **tipografía**, hacemos una excepción y nos tomamos la licencia de establecer la línea base en múltiplos de 4. De este modo ganamos versatilidad a la hora de establecer interlineados acordes al tamaño de la tipografía que generen una mancha de texto cómoda de leer. Por ejemplo, si nos ceñimos a múltiplos de 8, para una tipografía con un tamaño de 12 píxeles, 16 de interlineado podría ser insuficiente y 24 demasiado.
+When applying the rule of 8 to **typography**, we make an exception and take the liberty of establishing the baseline in multiples of 4. In this way, we obtain greater flexibility when it comes to creating our line-height spacing, establishing a comfortably readable experience. For example, if we stick to multiples of 8, for a font with a size of 12 pixels, 16 spacing might be insufficient and 24 too much.
 
-Hay **casos puntuales** en los que no es fácil tener claro cómo utilizar el grid de 8 puntos. Por ejemplo: en los elementos con una línea en el borde. En este caso, esta línea deberá estar definida de tal manera que ocupe espacio hacia el interior del botón. No contabilizaremos su grosor a la hora de medir el espaciado.
+There are **specific cases** in which it is not easy to know clearly how to use the 8-point grid. For example: in elements with a line at the edge. In this case, this line must be defined in such a way that it occupies space towards the inside of the button. We will not calculate its thickness when measuring spacing.
 
-**Excepciones a la regla**
+**Exceptions to the rule**  
+  
+There are projects where an **8-pixel grid is too big**. In these cases, the team analizes the possibilities of using a global 4-pixel grid. This way, we have more versatility when defining spaces, proportions and hierarchies on interfaces with a lot of information.
 
-Hay proyectos y situaciones en las que **la retícula de 8 es demasiado grande**. En estos casos, el equipo estudia la posibilidad de utilizar una retícula global de 4 píxels. De este modo disponemos de más versatilidad a la hora de definir espaciados, proporciones y jerarquías en interfaces con mucha densidad de información.
+### 3.4 Typography
 
-### 3.4 Tipografía
+Since the written letter is the main form of visual communication, the **use of good typography** is very important. This usage makes the reading process easier and a great experience seamless. In addition, typography is a great tool to give a specific **personality** to different projects and to establish a **tone of communication** that matches that personality.
 
-Puesto que la letra escrita es la principal forma de comunicación visual, el **buen uso** de la tipografía es muy importante. Este buen uso facilita el proceso de lectura y hace fluida la experiencia del usuario. Además, la tipografía es una herramienta genial para dotar de una **personalidad** concreta a los diferentes proyectos y para establecer un **tono comunicativo** acorde a esa personalidad.
+Each typography has its particularities, and establishing dogmas about the numerical values that must be followed does not always work. However, some general guidelines can help us to structure the information and layout the texts as follows:
 
-Cada tipografía tiene sus particularidades, y establecer dogmas sobre los valores numéricos que deben seguir no siempre funciona. Sin embargo, unas premisas generales que nos pueden ayudar a estructurar la información y componer los textos podrían ser las siguientes:
+* **Establish clear hierarchies** between the different types of information. To do this, you can use different typefaces, weights, sizes, colors, etc. An interesting way to define the different hierarchies for a system is to first establish the values of the body text, and then define the rest.
+* A **line spacing** between 1.4 and 1.6 times the font size usually works for a body of text. For highlights and headlines, we reduce that range to 1,2-1,4.
+* Control the **margin width** of the body text. For a good reading experience, 45 and 75 characters per line is recommended. You can find more information on this topic here.
+* Stick to **one or two typefaces** and use as few variations of font weights as possible. This is mainly due to performance issues in websites and apps.
 
-* **Establece jerarquías** bien diferenciadas entre los distintos tipos de información. Para ello, puedes valerte de diferentes tipografías, pesos, tamaños, colores, etc. Una interesante forma de definir las distintas jerarquías para un sistema, es establecer en primer lugar los valores del cuerpo de texto, para a partir de ahí definir el resto.
-* Un **interlineado** entre 1,4 y 1,6 veces el tamaño de la tipografía suele funcionar para cuerpos de texto. Para destacados y titulares reducimos ese rango a 1,2-1,4.
-* Controla **el largo de la línea** del cuerpo de texto. Lo recomendable para una buena experiencia de lectura, son entre 45 y 75 caracteres. Puedes encontrar más información sobre este tema [aquí](http://webtypography.net/2.1.2).
-* Cíñete a **una o dos tipografías** y utiliza la menor cantidad de variaciones posibles de pesos de la misma. Esto es principalmente por cuestiones de rendimiento en webs y apps.
+### 3.5 Iconography
 
-### 3.5 Iconografía
+The iconography visually represents complex concepts that, at a glance, convey **useful information to the user**. It should be used sparingly and clearly, without giving rise to ambiguous messages.
 
-La iconografía representa de forma visual conceptos complejos que, de un vistazo, trasladan **información útil al usuario**. Debe ser usada con mesura y de forma clara, sin dar lugar a mensajes ambiguos.
+Within the design system, **we group the icons according to their size**. We start from a minimum size of 16px and scale upwards in multiples of 8px depending on the needs of each system. To ensure that all icons of a given size have the same proportions, we place them on a transparent square background with these overall measurements.
 
-Dentro del sistema de diseño, **agrupamos los iconos en función de su tamaño**. Partimos de unas medidas mínimas de 16px y escalamos hacia arriba en múltiplos de 8px en función de las necesidades de cada sistema. Para asegurar que todos los iconos de un tamaño determinado tienen las mismas proporciones, los insertamos sobre un fondo cuadrado transparente con esas medidas totales.
+It is important to define the **shape properties** of the icons so that there is a visual unit of reference between them. There can be both line icons and icons created from solid shapes. Both share visual properties that can be defined:
 
-Es importante definir las **propiedades formales** de los iconos para que exista un código de unidad visual entre ellos. Pueden existir tanto iconos a línea, como creados a partir de formas sólidas. Ambos comparten propiedades visuales que se pueden definir:
+* **Line thickness.** It is important to set a standardized thickness for the entire group of icons. Even those created from solid forms could make use of lines at some point.
+* **Endings.** As a general rule, they can be rectangular or rounded.
+* **Corners.** Normally they can be: angular, rounded or beveled.
 
-* **Grosor de línea**. Es importante establecer un grosor estandarizado para todo el grupo de iconos. Incluso aquellos creados a partir de formas sólidas podrían llegar a hacer uso de líneas en algún momento.
-* **Terminaciones**. Por norma general, pueden ser rectangulares o redondeadas.
-* **Esquinas**. Normalmente pueden ser: angulares, redondeadas o con bisel.
+### 3.6 Layer Styles
 
-### 3.6 Estilos de capa
+We classify within this section certain characteristics that, by their **global nature**, are present in many of the pieces that make up the system and help to create its own tone and voice. With styles we define:
 
-Clasificamos dentro de este apartado ciertas características que, por su **naturaleza global**, están presentes en muchas de las piezas que componen el sistema y ayudan a dotar al mismo de un tono y una voz propias. Como estilos definimos:
+* **Color styles.** Here we include both colors related to branding, and those with a more functional character, such as those used in CTAs, error messages, etc..
+* **Shape styles.** In this category, we find a mixture of values that we can apply, such as the roundness of the edges of shapes, opacity, shadows, blurs, etc..
 
-* **Estilos de color**. Aquí incluimos tanto colores relacionados con el _branding_, como aquellos con un carácter más funcional, como aquellos usados en CTAs, mensajes de error, etc.
-* **Estilos de forma**. En esta categoría encontramos una miscelánea de valores que podemos aplicar, como por ejemplo la redondez de los bordes de las formas, la opacidad, sombras que proyectan, desenfoques, etc.
-
-## 4. **Tipos de elementos**
+## 4. Types of elements
 
 Todo sistema está por definición compuesto de elementos que lo articulan y le dan sentido. Para hacer viable el trabajo en equipo con los sistemas de diseño, es indispensable utilizar un **lenguaje común y autoexplicativo** para nombrar los distintos elementos. **Basándonos en su naturaleza**, nosotros proponemos la siguiente clasificación:
 
-* Fragmentos
-* Componentes
-* Módulos
-* Plantillas
 
-{% hint style="warning" %}
 
-Es importante destacar que aunque los nombres aquí los hemos reflejado en español normalmente, en las aplicaciones y a la hora de trabajar con ellos, usaremos siempre su traducción en inglés. Esto lo hacemos porque, así, se adapta mejor a todos los proyectos y porque luego será más sencillo que tengamos un mismo idioma con el equipo de desarrollo \(que suelen escribir todo el código en inglés\). Por lo tanto, a la hora de diseñar utilizaremos como nombres:
+Every system is by definition composed of elements that both articulate it and give it meaning. In order to make teamwork with the design systems viable, it is essential to use a **common and self-explanatory language** to name the different elements. **Based on their characteristics,** we propose the following classification:
 
 * Fragments
 * Components
 * Modules
 * Templates
 
-### 4.1 01 Fragmentos
+### 4.1 01 Fragments
 
-Un fragmento, como su nombre indica, es algo incompleto que sólo cobra sentido cuando se asocia con otros fragmentos para generar un significado o con un componente para añadírselo.
+A fragment, as its name indicates, is something incomplete that only makes sense when it is associated with other fragments or components to generate meaning.
 
-Por poner un ejemplo más bajado a tierra, un fragmento podría ser un icono de error dentro de una alerta debido a que en el diseño nunca va a ir solo, siempre irá acompañado por otro elemento, el texto, de ir solo, carecería de sentido o estaría mal aplicado.
+To give a more grounded example, a fragment could be an error icon within an alert because in the design it will never stand alone, it will always be accompanied by another element, the text. If it were to stand alone, it would be meaningless or misapplied.
 
-Otro ejemplo de fragmentos serían los items que forman parte de un conjunto y no deben nunca incluirse por separado \(celdas de una tabla, pestañas de un grupo de pestañas, enlaces de una navegación, opciones de un selector, etc.\). Por lo tanto, formarán parte del grupo de fragmentos los siguientes elementos:
+Another example of a fragment would be items that are part of a set and should never be included separately \(table cells, tabs from a group of tabs, links from a navigation bar, options from a selector, etc.\). Therefore, the following elements will form part of the group of fragments:
 
-* Iconos
-* Contenedores
-* Items \(como lista, tabla o pestañas\)
+* Icons
+* Containers
+* Items \(such as list, table, or tabs\)
 
-### 4.2 02 Componentes
+### 4.2 02 Components
 
-Un componente sería un elemento que tiene sentido en sí mismo, es decir, está completo y no necesita acompañarse de otros elementos. Se sirven de ellos mismos para cumplir una función específica.
+A component would be an element that makes sense by itself, that is, it is complete and does not need to be accompanied by other elements. They are used by themselves to perform a specific function.
 
-Es importante que un componente deba cumplir una única función, en el caso de que cumpla más de una función, en el momento en que se incumple esta regla ese componente no debe ser considerado como tal y pasará a ser parte de una categoría de elementos más compleja como módulos o plantillas.
+It is important that a component fulfill a single function. In the case that it fulfills more than one function, that component should not be considered as such and will become part of a more complex category of elements such as a module or template.
 
-Por poner un ejemplo, un componente sería un botón. Un botón no necesita de otro elemento para cumplir su función y podemos colocarlo en una interfaz y no se vería incompleto o ausente de significado. Los componentes más comunes son:
+To give an example, a component would be a button. A button does not need another element to fulfill its function and we can place it in an interface and it would not look incomplete or meaningless. The most common components are:
 
-* Bloques de texto
-* Botones
+* Text blocks
+* Button
 * Links
-* Campos de texto
-* Selectores
-* Barras de navegación
-* Imágenes
-* Ilustraciones
-* Grupos de pestañas
-* Listas
-* Tablas
+* Text fields
+* Selectors 
+* Navigation bars 
+* Images 
+* Illustrations 
+* Tab groups 
+* Lists
+* Tables
 
-### 4.3 03 Módulos
+### 4.3 03 Modules
 
-Un módulo o sección es un conjunto de componentes que se unen para adoptar una función a un nivel más global, por ejemplo, un campo de texto permite introducir datos \(tiene sentido por si mismo\) pero en el momento de combinarse con otros datos, botones, etc. puede generar un módulo que adquiere una función más global, como un formulario de registro. Otro ejemplo sería un pie de página, a menudo se conforma de enlaces que en si mismos tienen sentido como links a otras páginas pero en su unión adoptan una funcionalidad más global que es la de navegación. Algunos ejemplos de módulos:
+A module or section is a set of components that come together to adopt a function at a more global level. For example, a text field allows you to enter data \(it makes sense by itself\) but when combined with other data, buttons, etc. it can create a module that has a broader function, such as a registration form. Another example would be a footer. It often consists of links that in themselves make sense but in conjunction, they adopt a more global functionality that is navigation. Some examples of modules:
 
-* Formularios
-* Modales
-* Artículos
-* Cards
-* Calendarios
-* Galerías
-* Buscadores
+* Forms
+* Modals
+* Articles 
+* Cards 
+* Calendars 
+* Galleries 
+* Search bars
 
-## 5. Nomenclatura
+## 5. Naming system
 
-La nomenclatura de nuestro sistema está basada en los grupos diferenciados en el punto anterior. Esto nos permite que los elementos estén ordenados y sean fáciles de encontrar. Tener los mismos principios de nomenclatura en los distintos proyectos del equipo nos ayuda a conseguir consistencia y eficiencia.
+The naming system is based on the groups differentiated in the preceding section. This allows the elements to be ordered and easy to find. Having the same naming rules in different projects helps us to achieve consistency and efficiency.
 
-A continuación se muestran algunos ejemplos como lista de referencia ante la creación de un nuevo sistema de diseño en un proyecto. Hay proyectos en los que no aparezcan todos los componentes que se listan a continuación, y otros proyectos en los que surjan nuevos. La idea es adaptar las bases, y que producto y sistema de diseño evolucionen juntos.
+Below are some examples as a reference list when creating a new design system. There are projects in which not all of the components listed below appear, and other projects in which new ones will appear. The idea is to adopt the principles, and the product and design system will evolve together.
 
-### 5.1 01 Fragmentos
+### 5.1 01 Fragments
 
-* Iconos
+* Icons 01 Fragments / Icon / \[Size\]px / \[Name of Icon\]  We work with icons contained in square boxes.  This dimension refers to the size, which must always be a multiple of 8px, thus maintaining our grid. We define the name of the icon in a way that describes it and its functional nature. This allows us to find and distinguish an icon without needing to see it.
+* Containers 01 Fragments / Container / \[Container Type\]
 
-  01 Fragments / Icon / \[Tamaño\]px / \[Nombre del icono\]
+### 5.2 02 Components
 
-  Nosotros trabajamos con los iconos contenidos en cajas de dimensión cuadrada. Esta dimensión hace referencia al tamaño, que siempre tiene que ser múltiplo de 8px, respetando así nuestra retícula.
+* Buttons
 
-  Definimos el nombre del icono de forma que describa a este y a su funcionalidad. Esto nos permite encontrar y distinguir un icono sin necesidad de verlo.
+  02 Components / Button / \[Button Type\] / \[Status\]
 
-* Contenedores
+  **Button Type**
 
-  01 Fragments / Container / \[Tipo de contenedor\]
-
-### 5.2 02 Componentes
-
-* Botones
-
-  02 Components / Button / \[Tipo de botón\] / \[Estado\]
-
-  **Tipo de botón**
-
-  * Primary → CTA's primarios que deben hacer referencia a la acción principal
-  * Secondary → CTA's secundarios que deben hacer referencia a acciones secundarias
+  * Primary → Primary CTA's that should pertain to the main action
+  * Secondary → Secondary CTA's that should pertain to secondary actions
   * Tertiary
-  * Social → botón Facebook, Google, Twitter, ...
+  * Social → Facebook button, Google, Twitter, ...
 
-    **Estado**
+  **State**
 
-    Siempre deben estar disponibles todos los posibles estados que tiene el botón. Para ello, su nomenclatura debe seguir:
+  All possible states of the button should always be available. To do this, your classification must follow:
 
   * 01 Active
   * 02 Hover
@@ -230,11 +209,11 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 
   02 Components / Link / \[Estado\]
 
-  **Estado**
+  **State**
 
-  Encontrando los cuatro tipos de estados que disinguimos para los botones: active, hover, pressed y disabled.
+  The five states we distinguish for the links are: active, hover, pressed, visited and disabled.
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / Link / 01 Active
@@ -242,48 +221,48 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 - 02 Components / Link / 04 Disabled
 ```
 
-* Campos de texto
+* Text fields
 
-  02 Components / Text Field / \[Estado\]
+  02 Components / Text Field / \[State\]
 
-  **Estado**
+  **State**
 
-  Para un campo de texto siempre distinguimos cuatro estados, los cuales reflejamos en nuestro sistema como:
+  For a text field, we always differentiate four states. These are reflected in our system as::
 
   * 01 Empty
   * 02 Focus
-  * 02 Focus Typing \(Opcional\)
+  * 02 Focus Typing \(Optional\)
   * 03 Filled
   * 04 Error
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / Text Field / 01 Empty
 - 02 Components / Text Field / 03 Filled
 ```
 
-* Selectores
+* Selectors
 
-  02 Components / Selection controls / \[Tipo\] / \[Estado\]
+  02 Components / Selection controls / \[Type\] / \[State\]
 
-  **Tipo**
+  **Type**
 
-  Nosotros solemos distinguir entre cuatro tipos de selectores, que son:
+  We usually distinguish between four types of selectors, which are:
 
   * Dropdown
   * Radio button
   * Checkbox
   * Picker
 
-    **Estado**
+  **State**
 
-    Es importante, que siempre estén disponibles el estado de elemento seleccionado y del elemento sin seleccionar, para ello utilizamos:
+  Es importante, que siempre estén disponibles el estado de elemento seleccionado y del elemento sin seleccionar, para ello utilizamos:
 
   * Selected
   * Unselected
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / Selection Controls / Dropdown / Selected
@@ -291,20 +270,20 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 - 02 Components / Selection Controls / Radio button / Unselected
 ```
 
-* Barras de navegación
+* Navigation bars
 
-  02 Components / Navigation / \[Tipo de navegación\]
+  02 Components / Navigation / \[Type of Navigation\]
 
-  **Tipo de navegación**
+  **Type of navigation**
 
-  Los tipos de navegación más comunes que distinguimos en los proyectos son:
+  The most common types of navigation that we identify in projects are:
 
   * Navbar
   * Tabbar
   * Footer
   * Header
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / Navigation / Header
@@ -312,27 +291,27 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 - 02 Components / Navigation / Footer
 ```
 
-* Imágenes
+* Images
 
   02 Components / Image
 
-* Ilustraciones
+* Illustrations
 
-  02 Components / Illustration / \[Nombre de la ilustración\]
+  02 Components / Illustration / \[Name of illustration\]
 
-  **Nombre**
+  **Name**
 
-  Como ocurría anteriormente con los iconos, tener un nombre de ilustración descriptivo nos permite distinguirla fácilmente.
+  As we mentioned before with icons, having a descriptive illustration name allows us to identify it easily.
 
-* Listas
+* Lists
 
-  02 Components / List / \[Tipo de lista\]
+  02 Components / List / \[List Type\]
 
-  **Tipo de lista**
+  **List type**
 
-  El tipo de lista hace referencia a la funcionalidad de la lista, distinguiendo aquella o aquellas características que la diferencia.
+  The list type references the functionality of the list, its distinguishing characteristics that differentiate it from others.
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / List / Default
@@ -340,63 +319,62 @@ A continuación se muestran algunos ejemplos como lista de referencia ante la cr
 - 02 Components / List / Comment
 ```
 
-* Tablas
+* Tables
 
-  02 Components / Tables / \[Tipo de tabla\]
+  02 Components / Tables / \[Table Type\]
 
-### 5.3 03 Módulos
+### 5.3 03 Modules
 
-* Modales
+* Modals
 
-  03 Modules / Overlay / \[Tipo de modal\]
+  03 Modules / Overlay / \[Type of modal\]
 
-  **Tipo de modal**
+  **Type of modal**
 
-  El tipo de modal lo describe de forma funcional, para que sea fácilmente reconocible e identificable.
+  The type of modal describes it in a functional way, so that it is easily recognizable and identifiable.
 
 * Cards
 
-  03 Modules / Cards / \[Tipo de card\]
+  03 Modules / Cards / \[Type of card\]
 
-* Calendarios
+* Calendar
 
   03 Modules / Calendar
 
-### 5.4 04 Plantillas
+### 5.4 04 Templates
 
-Todas las plantillas siguen la misma nomenclatura, no distinguimos en subgrupos o elementos más pequeños. Lo hacemos de esta forma porque únicamente consideramos como plantilla aquellas vistas que se utilizan de forma recurrente.
+All templates follow the same naming system and we do not distinguish between their subgroups or smaller elements. We do it this way because we only consider a template to have views that are used repeatedly.
 
-04 Templates / \[Nombre de la vista\]
+04 Templates / \[Name of Screen\]
 
-**Nombre de la vista**
+**Name of the screen**
 
-El nombre de la vista es el indicativo de la funcionalidad u objetivo de la misma, el cual nos permite identificarla fácilmente.
+The name of the screen is the indicator of its functionality or objective, which allows us to identify it easily.
 
-### Estilos
+### Styles
 
 * Color
 
-  Color / \[Tipo de paleta\] / \[Tipo\] / \[Nombre del color\]
+  Color / \[Palette Type\] / \[Type\] / \[Color Name\]
 
-  **Tipo de paleta**
+  **Type of palette**
 
-  Los proyectos suelen tener dos tipos de paletas, una paleta primaria y otra secundaria.
+  Projects usually have two types of palettes, a primary palette, and a secondary palette.
 
-  * **Primary** → para la paleta primaria. Esta debe contener los colores que definen y dan personalidad a la marca del producto, estos suelen ir asociados al _branding._ Siendo su función principal acentuar_._
-  * **Secondary** → para la paleta secundaria. Esta contiene tanto los colores complementarios como tipográficos.
+  * **Primary** → for the primary pallet. This must contain the colors that define and give personality to the brand of the product, these are usually associated with branding. Its main function is to accentuate.
+  * **Secondary** → for the secondary palette. It contains both complementary and typeface colors.
 
-    **Tipo**
+    **Type of color**
 
-    Distinguimos dos tipos de estilos de color que se puedan aplicar sobre una capa, estilos con relleno y estilos de borde. Diferenciando así entre:
+    We distinguish two types of color styles that can be applied on a layer: styles with a color fill and border styles. Distinguishing them by:
 
   * **Full**
   * **Outline**
+  * **Color name**
 
-    **Nombre color**
+    Each color must have a reference name. This name should not describe the color, but its functionality.
 
-    Cada color debe tener un nombre de referencia. Este nombre no debe ser descriptivo del color, sino de la funcionalidad.
-
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - Color / Primary / Outline / Primary
@@ -405,20 +383,20 @@ El nombre de la vista es el indicativo de la funcionalidad u objetivo de la mism
 - Color / Secondary / Outline / Dark
 ```
 
-* Texto
+* Text
 
-  \[Tipo de tipografía\] / \[Tamaño\] / \[Color\] / \[Peso\] / \[Alineación\]
+  \[Typography use\] / \[Size\] / \[Color\] / \[Weight\] / \[Alignment\]
 
-  **Tipo tipografía**
+  **Typography type**
 
-  * Primary → tipografía principal
-  * Secondary → tipografía secundaria.
+  * Primary → main typeface
+  * Secondary → secondary typeface
 
-    Utilizar esta nomenclatura, en lugar de utilizar el nombre de la tipografía nos permite que en el caso de que esta cambie no sea necesario renombrar los estilos.
+    Using this naming, instead of using the name of the typeface allows us that in the event that it changes it is not necessary to rename the styles.
 
-    **Tamaño**
+    **Size**
 
-    Agrupamos los textos por tamaño. Para que en todos los proyectos, se siga una misma nomenclatura, independientemente los tamaños utilizados, aplicamos la siguiente escala:
+    We group the texts by size. In order to follow the same naming in all projects, regardless of the sizes used, we apply the following scale:
 
   * XXXL
   * XXL
@@ -430,17 +408,17 @@ El nombre de la vista es el indicativo de la funcionalidad u objetivo de la mism
   * XXS
   * XXXS
 
-    Siendo XXXL el grupo que contiene los textos con un tamaño mayor, y XXXS los de menor.
+    XXXL is the group that contains the texts with the greatest size, and XXXS those of smallest.
 
-    **💡** Nosotros tomamos como referencia el tamaño M, siendo el que más se repite y se utiliza en un proyecto. En función de este, definimos cuales son los tamaños mayores y menores que él.
+    **💡** We reference the size M, being the most used font size in the project. Based on this, we define which sizes are bigger and smaller than it.
 
     **Color**
 
-    Como mínimo, solemos establecer un color oscuro y otro claro para utilizar en la tipografía. Sin embargo, hay ocasiones en los que también utilizamos estilos de texto que de otros colores definidos en la paleta.
+    As a rule, we establish at least one dark color and one light color to use. However, there are times when we also use text styles of other colors defined in the palette.
 
-    **Peso**
+    **Weight**
 
-    Corresponde al _text weight_ asociado a la tipografía. Por ejemplo:
+    Corresponds to the text weight associated with the font. For example:
 
   * Light
   * Regular
@@ -450,16 +428,16 @@ El nombre de la vista es el indicativo de la funcionalidad u objetivo de la mism
   * Extrabold
   * ...
 
-    **Alineación**
+    **Alignment**
 
-    Siempre tenemos los estilos de texto alineado al centro, la izquierda y la derecha creados, para que estén disponibles. Utilizamos la siguiente nomenclatura:
+    We create text styles aligned to the center, left, and right and make them readily available. We use the following terminology:
 
   * Left Aligned
   * Centered
   * Right Aligned
 
 ```text
-Un ejemplo sería:
+An example would be:
 
 - Primary / M / Dark / Medium / Left Aligned
 - Primary / M / Dark / Medium / Centered
@@ -467,16 +445,16 @@ Un ejemplo sería:
 - Primary / L / Light / Regular / Right Aligned
 ```
 
-* Opacidad
+* Opacity
 
-  Opacity / \[Número de opacidad\]
+  Opacity / \[Opacity number\]
 
-  * **Número de opacidad**
+  * **Opacity number**
 
-    Coincidiendo este número con el tanto por ciento de opacidad aplicado.
+    This number coincides with the percentage of opacity applied.
 
 ```text
-Un ejemplo sería:
+An example would be:
 
 - Opacity / 10
 - Opacity / 20
@@ -487,31 +465,31 @@ Un ejemplo sería:
 
 ## 6. **Documentación**
 
-Para documentar los elementos que forman el sistema de diseño, es necesario ordenar los componentes para crear una **documentación** visual de los mismos. Estos componentes se deben ordenar clasificados en diferentes mesas de trabajo, de forma que se separen estilos y elementos.
+To document the elements that make up the design system, it is necessary to order the components to create them visually. These components **must be classified on different artboards** so that the styles and elements are separated.
 
-En algunos proyectos puede suceder que haya muchos elementos y sea imposible organizarlos todos en un mismo sitio, en ese caso se podrá dividir los elementos según al grupo al que pertenezcan en fragmentos, componentes y módulos.
+In some projects, it may be that there are too many elements making it impossible to organize them all in the same place. In this case, you can divide the elements according to the group to which they belong: fragments, components, and modules.
 
-A continuación se muestra un ejemplo visual de cómo se organizarían esos estilos y elementos.
+Below is a visual example of how those styles and elements would be organized.
 
-**Estilos**
+**Styles**
 
-Los componentes perceptibles hacen referencia a aquellos que reflejan la identidad y personalidad de la marca. Los componentes mínimos de esta mesa de trabajo deben ser:
+Perceivable components refer to those that reflect the identity and personality of the brand. The components of this artboard must be:
 
-* Color → paletas de colores utilizadas en el producto
-* Tipografía → de la tipografía es necesario documentar:
-  * Pesos tipográficos utilizados
-  * Estilos de textos utilizados → se deben documentar las características de cada estilo de texto: altura, espaciado entre caracteres y pesos en los que se utiliza.
-* Espaciado → debe mostrar el grid utilizado para el producto concreto
+* Color → color palettes used in the product
+* Typography → of the typography is necessary to document:
+  * Typographic weights used 
+  * Styles of texts used → must document the characteristics of each style of text: height, spacing between characters and weights in which it is used.
+* Spacing → must show the grid used for the specific product
 
 ![Estilos del sistema de dise&#xF1;o](.gitbook/assets/design-system-styles.jpg)
 
-De manera interna, hemos desarrollado un _plugin_ que complementa nuestro software de trabajo **automatizando la creación** de la estructura de un sistema de diseño. Esta extensión ahorra el trabajo mecánico de creación de estilos de color y texto.
+Internally, we have developed a plugin that complements our working software by **automating the creation of the structure of a design system**. This extension saves the mechanical work of creating color and text styles.
 
-**Elementos**
+**Elements**
 
-La organización visual de los elementos debe respetar y ser un reflejo de las reglas que seguimos para dividirlos en grupos de tal forma que estén separados según su naturaleza. La perspectiva general del sistema de diseño debería ser similar a la mostrada en el siguiente diagrama:
+The visual organization of the elements must be respected and be a reflection of the rules we follow. This way we can divide them into groups in such a way that they are separated according to their specific functionality. The overview of the design system should be similar to the one shown in the following diagram:
 
-![Visualizaci&#xF3;n global de los elementos de un sistema de dise&#xF1;o](.gitbook/assets/design-system-overview.jpg)
+![Overview of the elements in a design system](.gitbook/assets/design-system-overview.jpg)
 
-Una vez hemos dado por concluida la documentación visual, es interesante reflejar en un documento adjunto, o en el mismo archivo del sistema, aquellos elementos que requieren de un nivel de detalle más minucioso. Esta documentación adjunta debe hacer una breve descripción de estos y de su uso.
+Once we have finished the visual documentation, it is important to reflect in an attached document, or in the design system file itself, those elements that require a more meticulous level of detail. This attached documentation should give a brief description of what they are and how they are used.
 
