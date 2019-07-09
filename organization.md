@@ -150,7 +150,7 @@ You can learn more about how we organize ourselves in [Notion](tools/notion.md) 
 
 Although there is a level of hierarchy in the studio, we try not to make it very apparent. Everyone involved in a project deals directly with the client to a greater or lesser extent. Transparency and horizontal transversality are two of the keys to our approach.
 
-### 2.3 Gestión de tiempos
+### 2.3 Time management
 
 At the beginning of each project, a Kick-off meeting is held with the client's team, the person in charge of the project and the mendesaltaren members who will be participating in the project. This initial meeting establishes the business objectives to be achieved and what is expected of each member of the project. A clear roadmap is also shared.
 
