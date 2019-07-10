@@ -18,7 +18,7 @@ We are not going to talk about a single process. It will not be a one-off discou
 * **Product processes**, related to the solution of complex problems for users based on a series of objectives in a specific context.
 * **Graphical definition processes**, since visual communication is our main tool \(and not the only one\) when it comes to making a digital product a success.
 
-![Diagram of the general workflow we used in the studio](.gitbook/assets/global-workflow%20%281%29.jpg)
+![](.gitbook/assets/flujo-general-ingles.png)
 
 ## 1. Preparation
 
