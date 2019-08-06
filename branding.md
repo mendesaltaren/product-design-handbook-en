@@ -96,7 +96,7 @@ Search for references that help translate all the information and knowledge acqu
 * Present the identity with a summary of the previous phases.
 * The customer must select the chosen direction for branding.
 
-### 4. Producción de AAFF y _brandbook_
+### 4. Brandbook and final delivery
 
 Have well-structured and documented deliverables that help the client manage their brand by themselves once the project is completed. During this stage, it is necessary to perform:
 
