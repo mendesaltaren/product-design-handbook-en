@@ -107,10 +107,6 @@ We classify within this section certain characteristics that, by their **global 
 
 ## 4. Types of elements
 
-Todo sistema está por definición compuesto de elementos que lo articulan y le dan sentido. Para hacer viable el trabajo en equipo con los sistemas de diseño, es indispensable utilizar un **lenguaje común y autoexplicativo** para nombrar los distintos elementos. **Basándonos en su naturaleza**, nosotros proponemos la siguiente clasificación:
-
-
-
 Every system is by definition composed of elements that both articulate it and give it meaning. In order to make teamwork with the design systems viable, it is essential to use a **common and self-explanatory language** to name the different elements. **Based on their characteristics,** we propose the following classification:
 
 * Fragments
