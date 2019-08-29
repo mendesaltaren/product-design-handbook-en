@@ -159,7 +159,7 @@ Once we have validated and understood the problem, we start looking for solution
 
 User stories are a good exercise that helps us define features from the point of view of our users, taking into account their frustrations, problems, goals, and motivations.
 
-**Las historias de usuario:**
+**User stories:**
 
 * They give us context about the problem.
 * They help us to be focused on finding solutions for our users and empathizing with them.
@@ -320,120 +320,120 @@ The **objective of the wireframing phase** is to define everything from the navi
 
 ### 4.2 Prototyping
 
-Prototipar proporciona la versatilidad de poder testar el producto con usuarios en etapas tempranas y detectar problemas a nivel de navegación y contenido. Cuando hablamos de prototipo nos referimos a: diseños en mayor o menor medida cercanos en fidelidad al producto final, que nos permiten interactuar con las funcionalidades que proponemos.
+Prototyping provides the versatility of being able to test the product with users in the early stages and detect problems at the navigation and content level. When we talk about prototypes we are referring to: designs to a greater or lesser extent close in relation to the final product, which allow us to interact with the functionalities we have proposed.
 
-**El prototipo permite:**
+**The prototype allows us to:**
 
-* Entender y experimentar la navegación de un manera visual.
-* **Validar con el cliente** la estructura de contenido, componentes y módulos que irán finalmente en cada página. El prototipo proporciona una idea rápida y fiel al cliente de cómo será el producto final.
-* **Testar con los usuarios** la estructura de contenido, componentes y módulos que irán finalmente en cada página.
-* **Validar con el equipo de desarrollo** que se va a encargar posteriormente de la implementación.
+* Understand and experience navigation in a visual way.
+* **Validate with the client** the structure of content, components, and modules that will eventually go on each page. The prototype provides the client with a quick and faithful idea of what the final product will look like.
+* **To test with users** the structure of content, components, and modules that will eventually go on each page.
+* **Validate with the development team** that will later be in charge of its deployment.
 
-El prototipo tiene que dejar clara la propuesta de valor y proponer la solución a los problemas planteados.
+The prototype has to clearly portray the value proposition and propose the solution to the problems raised.
 
-### 4.3 **User tests**
+### 4.3 **User testing**
 
-Como hemos mencionado, es muy interesante testear el prototipo con usuarios para obtener _**insights**_ cuanto antes. Este testeo con usuarios nos permite ver si realmente se ha resuelto el problema planteado satisfactoriamente.
+As mentioned, it is very important to test the prototype with users to get **insights** as soon as possible. This test with users allows us to see if the problem has been solved in a satisfactory way.
 
-Al igual que ocurre con las entrevistas o encuestas, es de suma importancia tratar de sesgar lo mínimo a los usuarios. Preguntar por su opinión sobre el trabajo o pedirles valoraciones y juicios solo traerá respuestas complacientes y poco críticas. La clave es plantearles problemas reales y observar si los resuelven y cómo. Es vital ejercer de facilitador y no de guía, así como manejar el entorno para que se sientan cómodos: lo ideal es que usen el producto en un entorno lo más parecido a la realidad para no sesgarles.
+As with interviews and surveys, it is very important to try to minimize user bias. Asking for their opinion about the work or asking them for evaluations and judgments will only bring complaisant and uncritical answers. The key is to pose real problems to them and see if and how they solve them. It is vital to act as a facilitator, not a guide, and to manage the environment so that they feel comfortable. Ideally, they should use the product in an environment as close to reality as possible so as to get objective results.
 
 {% hint style="info" %}
-Para poder testar con usuarios es necesario tener un _**checklist**_ **de tareas** **a completar por los mismos. En la sesión en la que se realice el testeo,** es recomendable recordarle al usuario que no se le está juzgando a él, sino a la aplicación o web con el objetivo de mejorar. Se le comentará también cuáles son las tareas que debe completar. Cuando se complete una tarea la marcaremos en el _checklist_, esto nos servirá de guía para ver si el problema se ha resuelto con éxito o es necesario iterar sobre él.
+In order to test our users, it is necessary to have a **checklist of tasks to be completed by them. In the session in which the test is carried out,** it is advisable to remind the user that he is not being judged by their actions, but that we are testing the effectiveness of the application or web. They will also be told which tasks they must complete. When a task is completed we will mark it on the checklist, serving as a guide to see if the problem has been solved successfully or if it is necessary to iterate over it.
 {% endhint %}
 
 ### 4.4 Moodboard
 
-Un _moodboard_ nos es de gran ayuda en los primeros estadios de la exploración visual de un producto o marca. Nos permite traducir a un lenguaje visual **conceptos e ideas complejas** que aparecen reiteradamente ligadas al producto durante el proceso de definición. También es una buena forma de **trasladar al cliente nuestra visión** sobre su producto o marca para que ambos estemos alineados en ese sentido.
+A moodboard is of great help to us in the first stages of the visual exploration of a product or brand. It allows us to translate into visual language **complex concepts and ideas** that appear repeatedly linked to the product. It is also a good way to convey to the customer **our vision of your product** or brand so that we are both aligned in that sense.
 
-Este _moodboard_ debe ser **evocador**, pues nos servirá como punto de partida inspiracional. Normalmente preferimos no centrarnos únicamente en referencias directamente relacionadas con lo que podríamos entender por diseño gráfico e interfaces. El arte plástico, la fotografía, la arquitectura, la escultura y, en general, cualquier campo relacionado con la representación de ideas y conceptos, son buenos puntos de partida para buscar inspiración.
+The moodboard must be **evocative**, as it will serve as an inspirational starting point. Normally we prefer not to focus only on references directly related to what we could understand by graphic design and interfaces. Plastic art, photography, architecture, sculpture and, in general, any field related to the representation of ideas and concepts, are a good starting point to seek inspiration.
 
-**Es importante que tu** _**moodboard**_ **sea conciso**. Una posibilidad muy interesante, es la de crear pequeñas secciones centradas en aspectos concretos como el color, la forma, la textura, la tipografía, el tono comunicacional, etc. De este modo, maximizamos la potencia evocativa de la combinación de imágenes, evitando que se diluya en un mar de elementos visuales luchando por el protagonismo.
+**It is important that your moodboard is concise.** A very interesting possibility is to create small sections focused on specific aspects such as color, shape, texture, typography, the tone of language, etc... In this way, we maximize the evocative power of the combination of images, avoiding that it is diluted in a sea of visual elements fighting for attention.
 
-![Vista de ejemplo del tipo de moodboards que utilizamos en nuestras presentaciones](.gitbook/assets/moodboard.jpg)
+![Sample view of the type of moodboards we use in our presentations](.gitbook/assets/moodboard.jpg)
 
 ### 4.5 Branding
 
-El branding, junto al diseño de producto, es uno de los servicios más importantes que ofrecemos en el estudio. Son, de hecho, prácticamente indivisibles. No se puede entender un producto sin su marca ni al contrario. No es una fase como tal, ya que en un proyecto ideal la marca se desarrollaría paralelamente a muchas de las fases ya tratadas, bebiendo de algunas de ellas \(entendimiento, definición, conceptualización o componentización\) y alimentando otras \(producción, diseño visual, narrativa\). Es por todo esto que hemos decidido crear una sección específica para realizar una breve introducción al proceso que seguimos para la creación de marca en el estudio.
+Branding, along with product design, is one of the most important services we offer in the studio. They are, in fact, practically undividable. You can not understand a product without its brand or the other way around. It is not a stage as such since in an ideal project the brand would develop parallel to many of the stages already dealt with, drawing on some of them \(understanding, definition, concept or component creation\) and feeding off others \(production, visual design, narrative\). This is why we decided to create a specific section to make a brief introduction to the process we follow for creating branding in the studio.
 
 {% hint style="info" %}
-👉 Consulta una introducción a nuestro proceso de [**branding**](branding.md).
+👉 See an introduction to our [**branding process**](branding.md).
 {% endhint %}
 
-### 4.6 Diseño visual
+### 4.6 Visual design
 
-Una vez hemos definido y testado todos los aspectos funcionales y estructurales de un producto digital, llega el momento de dotar a estos de unos acabados visuales finales que nos ayuden a potenciar una **buena experiencia de usuario**.
+Once we have defined and tested all the functional and structural aspects of a digital product, it is time to provide them with final visual touches to help us enhance **a good user experience.**
 
-> "El buen diseño es estético"
+> "Good design is aesthetic"
 >
 > – Dieter Rams
 
-En sus 10 principios del buen diseño, Dieter Rams argumenta que **la calidad estética de un producto es parte integral de su utilidad**. Desde nuestro punto de vista, entre usuario y producto se establece una relación de uso que puede ser análoga a la que se crea en arquitectura entre edificios y personas. Del mismo modo que recorrer una construcción agradable repercute en nuestro bienestar y estado de ánimo, utilizar un producto digital creado de forma armoniosa, beneficia a esta relación establecida entre usuario y producto.
+In his 10 principles of good design, Dieter Rams argues that **the aesthetic quality of a product is an integral part of its usefulness.** From our point of view, between user and product, there is a relationship of use that can be akin to that created in architecture between buildings and people. In the same way that walking through a pleasant building affects our well-being and state of mind, using a digital product created in a harmonious way benefits this relationship established between user and product.
 
-Habitualmente, los elementos y códigos visuales de los que necesitamos hacer uso cuando creamos un producto digital, se enmarcan dentro de un contexto determinado: tienen que representar a una marca. Por ello, una parte importante de esta fase es la relativa a delimitar un ecosistema que los englobe. Este ecosistema es la **identidad de marca** o _**branding**_. Antes de materializar el producto a un nivel visual final, y aunque ya tengamos definidas las funcionalidades del producto, será imprescindible concretar esa identidad de marca. Este proceso es de cierto modo independiente al de desarrollo de producto. Por eso, en este punto definimos todo el proceso de [_branding_](branding.md).
+Usually, the visual elements and visual cues that we need to use when we create a digital product are framed within a certain context: they have to represent a brand. Therefore, an important part of this phase is the delineation of an ecosystem that encompasses them. This ecosystem is the **brand identity** or **branding**. Before materializing the product at a final visual level, and although we have already defined the functionalities of the product, it will be essential to specify that brand identity. This process is somewhat independent of product development. Therefore, at this point, we define the whole process of [_branding_](branding.md).
 
-Con la identidad de marca ya definida, podremos pasar a desarrollar el **sistema de diseño**. En él estableceremos unos **patrones** que facilitarán el uso de elementos comunes de forma recurrente, potenciando la recursividad. definiremos unas **reglas** que articularán el uso del mismo y también sentaremos las bases de un **lenguaje claro y consistente**, a partir del que crear y desarrollar productos. En este otro punto desarrollamos en profundidad todo lo relativo al [sistema de diseño](design-systems.md).
+With the brand identity already defined, we will be able to develop the **design system**. In it we will establish some **patterns** that will facilitate the use of common elements in a recurrent way, boosting resourcefulness. We will define the **rules** that articulate the use of it and the basis of a **clear and consistent language** where we can create and develop products. On this other point, we develop in-depth everything related to the [design system](design-systems.md).
 
 {% hint style="info" %}
-👉 Consulta una introducción a nuestro proceso de [**branding**](branding.md).
+👉 See an introduction to our [**branding process**](branding.md).
 {% endhint %}
 
 {% hint style="info" %}
-👉 Consulta una nuestra aproximación a los [**sistemas de diseño**](design-systems.md).
+👉 See our approach to [**design systems**](design-systems.md).
 {% endhint %}
 
-## 5. Entrega
+## 5. Delivery
 
-Los resultados de cada parte del proceso deben compartirse con el cliente y su equipo a medida que se van realizando. Esto elimina la incertidumbre y permite que el proyecto vaya avanzando y el feedback se aplique a su debido tiempo, evitando tener que rehacer partes enteras. Dándole acceso a nuestros clientes a [Abstract](tools/abstract.md) \(o [Figma](tools/figma.md) en su caso\) o compartiendo avances poco a poco en herramientas como InVision o Marvel permitirá que los clientes puedan ver qué se está haciendo, añadir comentarios y dar _feedback_ sobre el trabajo. Trabajar con transparencia agiliza el proyecto haciendo a los stakeholders partícipes de todos los avances.
+The results of each part of the process should be shared with the client and their team as they are implemented. This eliminates uncertainty and allows the project to move forward and the feedback to be applied in due time, thereby avoiding having to redo entire parts. Giving our clients access to [Abstract](tools/abstract.md) \(or [Figma](tools/figma.md) if applicable\) or sharing little by little our progress in tools such as InVision or Marvel will allow clients to see what is being done, add comments and give feedback on the work on the go. Working with transparency streamlines the project by involving stakeholders in all the stages.
 
-### 5.1 Cómo y qué entregar
+### 5.1 How and what to deliver
 
 La mejor forma de entregar un proyecto es un link a la carpeta de Google Drive o Dropbox donde tengamos el entregable. Esto nos evitará, en el caso de que hubiera cualquier modificación, tener que enviar de nuevo archivos comprimidos, o subirlo a plataformas como Wetransfer.
 
-Es de suma importancia que el cliente comprenda qué, pese a estar cerrado, es posible corregir posteriormente cualquier error que hayamos cometido.
+It is very important that the client understands that, despite having finished certain items, it is possible to later correct any mistakes we have made.
 
-### 5.2 Organización
+### 5.2 Organization
 
-A la hora de preparar un proyecto entregable es muy importante establecer una organización que el cliente pueda entender a través de convenciones. Se debe seleccionar aquellos archivos que sean valiosos para el cliente, no olvidando en ningún caso aquellos que hayan sido definidos como mandatory por el cliente en la fase de preparación.
+When preparing a deliverable it is very important to establish a structure that the client can understand through established standards. It is necessary to identify those files that are valuable to the client, not forgetting those that have been defined as required by the client in the preparation phase.
 
-Creamos una estuctura de carpetas dentro de la carpeta "deliverables" con todos los recursos acordados con el cliente. Será esta subcarpeta la que compartiremos con el cliente.
+We create a folder structure inside the "deliverables" folder with all the resources agreed upon with the client. It will be this subfolder that we will share with the client.
 
 {% hint style="info" %}
-Los entregables del proyecto serán aquellos definidos previamente con el cliente y estarán en todo momento documentados en Notion.
+The project deliverables will be those previously defined with the client and will be documented at all times in [Notion](tools/notion.md).
 {% endhint %}
 
-**¿Cómo preparar archivos de sketch para entregar?**
+**How to prepare sketch files for delivery?**
 
-1. Mergear todas las posibles ramas que haya en el proyecto de Abstract a la rama _Master_.
-2. Exportar los archivos de la rama _Master_.
-3. Guardarlos en Dropbox
+1. Merge all possible branches in the Abstract project to the Master branch.
+2. Export the files of the Master branch.
+3. Save them in Dropbox
 
 {% hint style="info" %}
-✏️ Consulta la documentacion sobre como usamos Abstract más en el apartado de [Abstract](tools/abstract.md).
+✏️ See the documentation on how we use Abstract in the [Abstract](tools/abstract.md) section.
 {% endhint %}
 
 ### 5.3 Handoff
 
-Para trasladar el diseño a desarrollo, utilizamos [Zeplin](tools/zeplin.md). Nos permite reducir el gap entre diseño y desarrollo, facilitando la implementación de del diseño. Únicamente subimos a Zeplin aquellos archivos que estén en la rama _Master_ de Abstract, para tener un control de qué se sube.
+To bring our designs into the development stage, we use [Zeplin](tools/zeplin.md). It allows us to reduce the design-to-development gap, making it easier to implement the design. We only upload to Zeplin those files that are in the Master branch of Abstract, to have better control of what is uploaded.
 
 {% hint style="info" %}
-👉 Si quieres saber más sobre cómo preparar tus archivos para el handoff puedes consultar el artículo sobre [Zeplin](tools/zeplin.md).
+👉 If you want to know more about how to prepare your files for handoff you can read our article about [Zeplin](tools/zeplin.md).
 {% endhint %}
 
-## 6. Seguimiento
+## 6. Follow-up
 
-### 6.1 Formación
+### 6.1 Training
 
-Una vez acabado el proyecto, se realizan sesiones de formación con cliente. En estas sesiones, se traslada el conocimiento adquirido a lo largo del proceso al cliente.
+Once the project is finished, training sessions are held with the client. In these sessions, the knowledge acquired throughout the process is passed on to the client.
 
-Formamos al cliente para darle a conocer el alcance que tiene el sistema de diseño creado y el trabajar en base a componentes para que su producto sea escalable, mantenible y consistente en el tiempo.
+We train the client to know the scope of the design system created and work on the basis of components so that your product is scalable, maintainable and consistent over time.
 
-### 6.2 Soporte
+### 6.2 Support
 
-Al realizar la entrega del proyecto, realizamos un seguimiento con el equipo de front-end que desarrollará el proyecto. Gracias a este soporte podremos asegurar que cualquier duda que pueda surgir quede resuelta. En caso de darse alguna complicación con respecto al diseño, se buscan vías para proporcionar una solución mediante este.
+Upon delivery of the project, we follow up with the front-end team that will develop the project. Thanks to this support we can ensure that any questions that may arise are resolved. In the event of a design complication, ways are identified to provide a design solution.
 
-### 6.3 Valoración interna
+### 6.3 Internal assessment
 
-Cuando se entrega un proyecto, el responsable y los miembros del equipo que han formado parte de él realizan una retrospectiva del proyecto. En esta reunión, se analizará qué ha salido bien y qué puntos del proyecto se pueden mejorar, de cara a siguientes proyectos. Este conocimiento adquirido se traslada al resto del equipo, para que el aprendizaje se vea reflejado en todos los proyectos del estudio.
+When a project is handed over, the person in charge and the members of the team who have formed part of it carry out a review of the project. In this meeting, we will analyze what has gone well and what aspects of the project can be improved upon, all with a forward focus on the subsequent projects. This acquired knowledge is transferred to the rest of the team so that the learning is mirrored in all the projects of the studio.
 
-A los tres meses de la entrega de un proyecto, nos ponemos en contacto con el cliente para ver cómo está funcionando el producto, obtener métricas y poder compararlas, si se tuvieran al inicio del proyecto. Gracias a obtener esta información podremos analizar qué ha funcionado a nivel de producto, y cómo nuestro trabajo ha contribuido a ello. Realizar una retrospectiva en este punto fomenta la mejora de los proyectos futuros.
+Three months after the submission of a project, we contact the client to see how the product is performing, obtaining metrics and comparing them against metrics took at the beginning of the project \(if they where available then\). By obtaining this information we will be able to analyze what has worked at the product level, and how our work has contributed to it. A review at this point encourages the improvement of future projects.
 
