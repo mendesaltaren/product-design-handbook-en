@@ -195,7 +195,7 @@ Below are some examples as a reference list when creating a new design system. T
   * 03 Pressed
   * 04 Disabled
 
-**Un ejemplo seria:**
+**An example would be:**
 
 ```text
 - 02 Components / Button / Primary / 01 Active
@@ -463,7 +463,7 @@ An example would be:
 - ...
 ```
 
-## 6. **Documentación**
+## 6. **Documentation**
 
 To document the elements that make up the design system, it is necessary to order the components to create them visually. These components **must be classified on different artboards** so that the styles and elements are separated.
 
@@ -481,7 +481,7 @@ Perceivable components refer to those that reflect the identity and personality 
   * Styles of texts used → must document the characteristics of each style of text: height, spacing between characters and weights in which it is used.
 * Spacing → must show the grid used for the specific product
 
-![Estilos del sistema de dise&#xF1;o](.gitbook/assets/design-system-styles.jpg)
+![Design system styles](.gitbook/assets/design-system-styles.jpg)
 
 Internally, we have developed a plugin that complements our working software by **automating the creation of the structure of a design system**. This extension saves the mechanical work of creating color and text styles.
 
