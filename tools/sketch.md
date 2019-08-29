@@ -47,7 +47,7 @@ Following the nomenclature:
 * Emoji: we use ✅ for master pages and ⚙️ for pages in progress.
 * Page id: Are an incremental numerical identification with a 0 \(zero\) as a prefix.
 
-Un ejemplo sería:
+An example would be:
 
 * ✅ 02 Account
 * ✅ 03 Catalog
