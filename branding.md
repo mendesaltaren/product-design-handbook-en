@@ -44,7 +44,7 @@ Research the client's internal profiles. Generate a preliminary idea of what he 
 
 ### 2. Research and brand platform
 
-After this first contact, we should **research our client’s market** in order to identify competitors and references. In this step, it’s quite important **make the client think about his brand**, his value proposal and the message he want to translate convey. To do that it, we ask him to complete a document: the [Brand Strategy Brief.](https://www.notion.so/Brand-Strategy-Brief-ejercicio-arquetipos-58f760341b144236baa58303c11e2e83)
+After this first contact, we should **research our client’s market** in order to identify competitors and references. In this step, it’s quite important **make the client think about his brand**, his value proposal and the message he want to translate convey. To do that it, we ask him to complete a document: the [Brand Strategy Brief.](https://www.notion.so/mendesaltaren/Brand-Strategy-Brief-350f7e25a4d64e039de2baacf9fa8a9f)
 
 With everything gathered in this stage, a proposal will be made to the client. These are the steps to follow:
 
