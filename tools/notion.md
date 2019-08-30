@@ -43,7 +43,7 @@ Our projects contain:
 {% hint style="info" %}
 This is the template we use in the studio to document meetings
 
-[Meeting \[Brief description\]\[Date\]](https://www.notion.so/mendesaltaren/Meeting-Descripci-n-Breve-Fecha-aaad9a2a12084d96bd327fa7e433e5ce)
+[Meeting \[Brief description\]\[Date\]](https://www.notion.so/mendesaltaren/Meeting-Short-description-Date-2aa921b731384f3f91cfd8635d689d4c)
 {% endhint %}
 
 Having the projects follow this structure in Notion allows us to have the projects documented in a straightforward way with its resources in a centralized location.
