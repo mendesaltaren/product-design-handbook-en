@@ -1,3 +1,5 @@
+> This is an outdated version. To check out the latest one (in Spanish) you can navigate to [mendesaltaren.com/handbook](mendesaltaren.com/handbook)
+
 # 0. Introduction
 
 ## Introduction
