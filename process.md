@@ -91,7 +91,7 @@ This canvas involves representatives from the different teams which creates a mo
 
 The product canvas is also a great way for the client's team to know us and understand that we are there to listen and help them to improve their work processes and products.
 
-![General workflow diagram used in the studio](.gitbook/assets/global-workflow.jpg)
+![Product canvas](.gitbook/assets/product-canvas.jpg)
 
 * **Customer segment** What is the target of our product? Who is it aimed at?
 * **Unmet needs**  What are the identified needs in the market to which the solutions are being made?
